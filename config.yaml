@@ -1,0 +1,81 @@
+# Top Papers Weekly Digest - Configuration
+# 毎週のトップジャーナル論文ダイジェスト設定
+
+# 検索対象ジャーナル (ISSN で指定)
+journals:
+  # --- 三大誌 ---
+  - name: Nature
+    issn: "1476-4687"
+    category: top3
+
+  - name: Science
+    issn: "1095-9203"
+    category: top3
+
+  - name: Cell
+    issn: "0092-8674"
+    category: top3
+
+  # --- Nature 姉妹誌 (主要) ---
+  - name: Nature Medicine
+    issn: "1546-170X"
+    category: nature_family
+
+  - name: Nature Neuroscience
+    issn: "1546-1726"
+    category: nature_family
+
+  - name: Nature Methods
+    issn: "1548-7091"
+    category: nature_family
+
+  - name: Nature Biotechnology
+    issn: "1546-1696"
+    category: nature_family
+
+  - name: Nature Genetics
+    issn: "1546-1718"
+    category: nature_family
+
+  # --- Cell 姉妹誌 ---
+  - name: Cell Stem Cell
+    issn: "1934-5909"
+    category: cell_family
+
+  - name: Molecular Cell
+    issn: "1097-2765"
+    category: cell_family
+
+  - name: Cell Reports
+    issn: "2211-1247"
+    category: cell_family
+
+  # --- 医学系トップ ---
+  - name: NEJM
+    issn: "1533-4406"
+    category: medical
+
+  - name: The Lancet
+    issn: "0140-6736"
+    category: medical
+
+  - name: JAMA
+    issn: "0098-7484"
+    category: medical
+
+# 検索期間 (日数)
+lookback_days: 14
+
+# 出力設定
+output:
+  format: markdown
+  directory: output
+  include_abstract: true
+  max_papers_per_journal: 30
+
+# カテゴリ別の表示優先度
+category_order:
+  - top3
+  - nature_family
+  - cell_family
+  - medical

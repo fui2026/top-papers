@@ -1,0 +1,61 @@
+name: Weekly Paper Digest
+
+on:
+  schedule:
+    # 毎週月曜 00:00 UTC = 09:00 JST
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+    # GitHub Actions UI から手動実行可能
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml tweepy
+
+      - name: Fetch papers
+        run: python fetch_papers.py
+
+      - name: Commit digest to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "Add weekly digest $(date +%Y-%m-%d)"
+          git push
+
+      - name: Update GitHub Pages
+        run: |
+          cp output/digest_*.md docs/ 2>/dev/null || true
+          cp output/digest_*.json docs/ 2>/dev/null || true
+          python generate_index.py
+          git add docs/
+          git diff --staged --quiet || git commit -m "Update GitHub Pages $(date +%Y-%m-%d)"
+          git push
+
+      - name: Post to X
+        if: success()
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          PAGES_URL: ${{ format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
+        run: |
+          # X API キーが設定されていない場合はスキップ
+          if [ -z "$X_API_KEY" ]; then
+            echo "X API keys not configured, skipping post"
+            exit 0
+          fi
+          python post_to_x.py

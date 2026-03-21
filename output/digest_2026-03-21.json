@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-21",
+  "from_date": "2026-03-14",
+  "until_date": "2026-03-21",
+  "total_papers": 67,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Catabolism of extracellular glutathione supplies cysteine to support tumours",
+          "authors": "Fabio Hecht et al.",
+          "doi": "10.1038/s41586-026-10268-2",
+          "url": "https://doi.org/10.1038/s41586-026-10268-2"
+        },
+        {
+          "journal": "Science",
+          "title": "Research security policy needs clear guidelines",
+          "authors": "Caroline S. Wagner et al.",
+          "doi": "10.1126/science.aef7935",
+          "url": "https://doi.org/10.1126/science.aef7935"
+        },
+        {
+          "journal": "Cell",
+          "title": "Liver exerkine reverses aging- and Alzheimer’s-related memory loss via vasculature",
+          "authors": "Gregor Bieri et al.",
+          "doi": "10.1016/j.cell.2026.01.024",
+          "url": "https://doi.org/10.1016/j.cell.2026.01.024"
+        }
+      ]
+    }
+  ]
+}
