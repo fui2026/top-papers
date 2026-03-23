@@ -1,0 +1,116 @@
+{
+  "generated": "2026-03-23",
+  "from_date": "2026-03-09",
+  "until_date": "2026-03-23",
+  "total_papers": 351,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Catabolism of extracellular glutathione supplies cysteine to support tumours",
+          "authors": "Fabio Hecht et al.",
+          "doi": "10.1038/s41586-026-10268-2",
+          "url": "https://doi.org/10.1038/s41586-026-10268-2"
+        },
+        {
+          "journal": "Science",
+          "title": "Research security policy needs clear guidelines",
+          "authors": "Caroline S. Wagner et al.",
+          "doi": "10.1126/science.aef7935",
+          "url": "https://doi.org/10.1126/science.aef7935"
+        },
+        {
+          "journal": "Cell",
+          "title": "Liver exerkine reverses aging- and Alzheimer’s-related memory loss via vasculature",
+          "authors": "Gregor Bieri et al.",
+          "doi": "10.1016/j.cell.2026.01.024",
+          "url": "https://doi.org/10.1016/j.cell.2026.01.024"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Real-world clinical utility of tumor whole-genome sequencing in solid cancers",
+          "authors": "Jeffrey van Putten et al.",
+          "doi": "10.1038/s41591-026-04280-2",
+          "url": "https://doi.org/10.1038/s41591-026-04280-2"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Single-nucleus epigenomic profiling of the adult human central nervous system unveils epigenetic memory of developmental programs",
+          "authors": "Mukund Kabbe et al.",
+          "doi": "10.1038/s41593-026-02208-0",
+          "url": "https://doi.org/10.1038/s41593-026-02208-0"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Open and sustainable AI: challenges, opportunities and the road ahead in the life sciences",
+          "authors": "Gavin Farrell et al.",
+          "doi": "10.1038/s41592-026-03037-6",
+          "url": "https://doi.org/10.1038/s41592-026-03037-6"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Cradles for maturation: Turning progenitor cells into functional intestinal epithelium",
+          "authors": "Kaustav Bera et al.",
+          "doi": "10.1016/j.stem.2026.01.016",
+          "url": "https://doi.org/10.1016/j.stem.2026.01.016"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "(Lnc)ing MALAT1-SRSF1 condensates to hypoxia-induced RNA alternative splicing and cancer",
+          "authors": "Jodi L. Bubenik et al.",
+          "doi": "10.1016/j.molcel.2026.02.020",
+          "url": "https://doi.org/10.1016/j.molcel.2026.02.020"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Microbial trait of large body size facilitates ecosystem performance",
+          "authors": "Lingjuan Li et al.",
+          "doi": "10.1016/j.celrep.2026.117032",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117032"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Number Needed to Treat",
+          "authors": "W. Michael Brode",
+          "doi": "10.1056/nejmp2511419",
+          "url": "https://doi.org/10.1056/nejmp2511419"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Why Ukraine's energy insecurity is a maternal health crisis",
+          "authors": "Jacqueline Mahon",
+          "doi": "10.1016/s0140-6736(26)00353-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00353-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Surveillance of Sepsis in Children—Making Every Case Count",
+          "authors": "Luregn J. Schlapbach et al.",
+          "doi": "10.1001/jama.2026.2814",
+          "url": "https://doi.org/10.1001/jama.2026.2814"
+        }
+      ]
+    }
+  ]
+}
