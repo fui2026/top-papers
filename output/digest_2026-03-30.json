@@ -1,0 +1,116 @@
+{
+  "generated": "2026-03-30",
+  "from_date": "2026-03-16",
+  "until_date": "2026-03-30",
+  "total_papers": 381,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Retraction Note: Multisensory learning binds neurons into a cross-modal memory engram",
+          "authors": "Zeynep Okray et al.",
+          "doi": "10.1038/s41586-026-10355-4",
+          "url": "https://doi.org/10.1038/s41586-026-10355-4"
+        },
+        {
+          "journal": "Science",
+          "title": "Cascading impacts of natural disasters in a connected world",
+          "authors": "Laurie S. Huning et al.",
+          "doi": "10.1126/science.adn8744",
+          "url": "https://doi.org/10.1126/science.adn8744"
+        },
+        {
+          "journal": "Cell",
+          "title": "Whole-organ and whole-body 3D atlases enable cellome-wide profiling",
+          "authors": "Shota Y. Yoshida et al.",
+          "doi": "10.1016/j.cell.2025.12.057",
+          "url": "https://doi.org/10.1016/j.cell.2025.12.057"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "DASH-patterned groceries and effects on blood pressure in adults treated for hypertension: the GoFreshRx randomized trial",
+          "authors": "Stephen P. Juraschek et al.",
+          "doi": "10.1038/s41591-026-04319-4",
+          "url": "https://doi.org/10.1038/s41591-026-04319-4"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "The dentate gyrus efficiently converges LEC and MEC inputs into multimodal, highly specific and reliable environmental representations",
+          "authors": "Thibault Cholvin et al.",
+          "doi": "10.1038/s41593-026-02240-0",
+          "url": "https://doi.org/10.1038/s41593-026-02240-0"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "3d-OT: a deep geometry-aware framework for heterogeneous slices alignment of spatial multi-omics",
+          "authors": "Bingjie Dai et al.",
+          "doi": "10.1038/s41592-026-03034-9",
+          "url": "https://doi.org/10.1038/s41592-026-03034-9"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Cradles for maturation: Turning progenitor cells into functional intestinal epithelium",
+          "authors": "Kaustav Bera et al.",
+          "doi": "10.1016/j.stem.2026.01.016",
+          "url": "https://doi.org/10.1016/j.stem.2026.01.016"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "NAC promotes co-translational protein folding at the ribosomal tunnel exit",
+          "authors": "Jaime Santos et al.",
+          "doi": "10.1016/j.molcel.2026.02.022",
+          "url": "https://doi.org/10.1016/j.molcel.2026.02.022"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Haplotype-resolved genome of hexaploid Solanum nigrum: Insights into origin, evolution, and steroidal glycoalkaloid biosynthesis",
+          "authors": "Bo Kong et al.",
+          "doi": "10.1016/j.celrep.2026.117037",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117037"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Toward Broader Adoption of Coronary Physiological Assessment",
+          "authors": "Gianluca Campo",
+          "doi": "10.1056/nejme2603396",
+          "url": "https://doi.org/10.1056/nejme2603396"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Why Ukraine's energy insecurity is a maternal health crisis",
+          "authors": "Jacqueline Mahon",
+          "doi": "10.1016/s0140-6736(26)00353-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00353-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Evolocumab to Reduce First Major Cardiovascular Events in Patients Without Known Significant Atherosclerosis and With Diabetes",
+          "authors": "Nicholas A. Marston et al.",
+          "doi": "10.1001/jama.2026.3277",
+          "url": "https://doi.org/10.1001/jama.2026.3277"
+        }
+      ]
+    }
+  ]
+}
