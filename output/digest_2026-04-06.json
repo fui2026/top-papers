@@ -1,0 +1,116 @@
+{
+  "generated": "2026-04-06",
+  "from_date": "2026-03-23",
+  "until_date": "2026-04-06",
+  "total_papers": 392,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "General scales unlock AI evaluation with explanatory and predictive power",
+          "authors": "Lexin Zhou et al.",
+          "doi": "10.1038/s41586-026-10303-2",
+          "url": "https://doi.org/10.1038/s41586-026-10303-2"
+        },
+        {
+          "journal": "Science",
+          "title": "A 36-ring zeolite with intrinsic cylindrical mesopores",
+          "authors": "Jiazheng Sun et al.",
+          "doi": "10.1126/science.aec4882",
+          "url": "https://doi.org/10.1126/science.aec4882"
+        },
+        {
+          "journal": "Cell",
+          "title": "Planetary microbiome structure and generalist-driven gene flow across disparate habitats",
+          "authors": "Chan Yeong Kim et al.",
+          "doi": "10.1016/j.cell.2025.12.051",
+          "url": "https://doi.org/10.1016/j.cell.2025.12.051"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Target product profiles for treatments to delay or prevent symptomatic Alzheimer’s disease",
+          "authors": "Jeffrey L. Cummings et al.",
+          "doi": "10.1038/s41591-026-04305-w",
+          "url": "https://doi.org/10.1038/s41591-026-04305-w"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Entorhinal cortex represents task-relevant remote locations independently of CA1",
+          "authors": "Emily A. Aery Jones et al.",
+          "doi": "10.1038/s41593-026-02232-0",
+          "url": "https://doi.org/10.1038/s41593-026-02232-0"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "A toolkit for modeling cis-regulatory logic of enhancers at large scale",
+          "authors": "(Unknown)",
+          "doi": "10.1038/s41592-026-03058-1",
+          "url": "https://doi.org/10.1038/s41592-026-03058-1"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Reconstructing tumor tissues in 3D: From organoids to bioengineered niches",
+          "authors": "Verena J. Kast et al.",
+          "doi": "10.1016/j.stem.2026.03.005",
+          "url": "https://doi.org/10.1016/j.stem.2026.03.005"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "NAC promotes co-translational protein folding at the ribosomal tunnel exit",
+          "authors": "Jaime Santos et al.",
+          "doi": "10.1016/j.molcel.2026.02.022",
+          "url": "https://doi.org/10.1016/j.molcel.2026.02.022"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Cellular and subcellular specialization enables biology-constrained deep learning",
+          "authors": "Alessandro R. Galloni et al.",
+          "doi": "10.1016/j.celrep.2026.117159",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117159"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Leveraging School Systems as Data Partners to Advance Health Equity",
+          "authors": "Elizabeth I. Ackley",
+          "doi": "10.1056/nejmp2516497",
+          "url": "https://doi.org/10.1056/nejmp2516497"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Thomas Fogarty",
+          "authors": "Andrew Green",
+          "doi": "10.1016/s0140-6736(26)00616-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00616-1"
+        },
+        {
+          "journal": "JAMA",
+          "title": "FDA Approves Higher-Dose Injectable Semaglutide",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.1030",
+          "url": "https://doi.org/10.1001/jama.2026.1030"
+        }
+      ]
+    }
+  ]
+}
