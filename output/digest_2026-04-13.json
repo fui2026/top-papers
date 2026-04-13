@@ -1,0 +1,116 @@
+{
+  "generated": "2026-04-13",
+  "from_date": "2026-03-30",
+  "until_date": "2026-04-13",
+  "total_papers": 385,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Ambiphilic cross-coupling with aryl-bismuth reagents",
+          "authors": "Byeongdo Roh et al.",
+          "doi": "10.1038/s41586-026-10486-8",
+          "url": "https://doi.org/10.1038/s41586-026-10486-8"
+        },
+        {
+          "journal": "Science",
+          "title": "Magma plumbing beneath Yellowstone",
+          "authors": "Jamie Farrell",
+          "doi": "10.1126/science.aeg3511",
+          "url": "https://doi.org/10.1126/science.aeg3511"
+        },
+        {
+          "journal": "Cell",
+          "title": "Planetary microbiome structure and generalist-driven gene flow across disparate habitats",
+          "authors": "Chan Yeong Kim et al.",
+          "doi": "10.1016/j.cell.2025.12.051",
+          "url": "https://doi.org/10.1016/j.cell.2025.12.051"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Zodasiran for cholesterol and triglyceride lowering in patients with hyperlipidemia: final report of phase 1 basket trial",
+          "authors": "Gerald F. Watts et al.",
+          "doi": "10.1038/s41591-026-04307-8",
+          "url": "https://doi.org/10.1038/s41591-026-04307-8"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Neural sequences underlying directed turning in Caenorhabditis elegans",
+          "authors": "Talya S. Kramer et al.",
+          "doi": "10.1038/s41593-026-02257-5",
+          "url": "https://doi.org/10.1038/s41593-026-02257-5"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "A toolkit for modeling cis-regulatory logic of enhancers at large scale",
+          "authors": "(Unknown)",
+          "doi": "10.1038/s41592-026-03058-1",
+          "url": "https://doi.org/10.1038/s41592-026-03058-1"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Rebuilding the bridge: Functional AVN cells for cardiac repair",
+          "authors": "Haofei Wang et al.",
+          "doi": "10.1016/j.stem.2026.03.007",
+          "url": "https://doi.org/10.1016/j.stem.2026.03.007"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "NAC promotes co-translational protein folding at the ribosomal tunnel exit",
+          "authors": "Jaime Santos et al.",
+          "doi": "10.1016/j.molcel.2026.02.022",
+          "url": "https://doi.org/10.1016/j.molcel.2026.02.022"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Cellular and subcellular specialization enables biology-constrained deep learning",
+          "authors": "Alessandro R. Galloni et al.",
+          "doi": "10.1016/j.celrep.2026.117159",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117159"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Nurse Scientists as Trusted Voices in Health Communication",
+          "authors": "Paule Joseph et al.",
+          "doi": "10.1056/nejmp2518286",
+          "url": "https://doi.org/10.1056/nejmp2518286"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Thomas Fogarty",
+          "authors": "Andrew Green",
+          "doi": "10.1016/s0140-6736(26)00616-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00616-1"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Warfarin Self-Management Safe and Effective for Patients",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.2108",
+          "url": "https://doi.org/10.1001/jama.2026.2108"
+        }
+      ]
+    }
+  ]
+}
