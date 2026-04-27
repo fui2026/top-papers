@@ -1,0 +1,116 @@
+{
+  "generated": "2026-04-27",
+  "from_date": "2026-04-13",
+  "until_date": "2026-04-27",
+  "total_papers": 356,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Field re-entrant superconductivity in Eu-doped infinite-layer nickelates",
+          "authors": "Mingwei Yang et al.",
+          "doi": "10.1038/s41586-026-10547-y",
+          "url": "https://doi.org/10.1038/s41586-026-10547-y"
+        },
+        {
+          "journal": "Science",
+          "title": "A single-cell multiomic analysis identifies molecular and gene-regulatory mechanisms dysregulated in developing Down syndrome neocortex",
+          "authors": "Celine K. Vuong et al.",
+          "doi": "10.1126/science.aea1259",
+          "url": "https://doi.org/10.1126/science.aea1259"
+        },
+        {
+          "journal": "Cell",
+          "title": "Predicting competition and substrate preferences for targeted microbiome alteration",
+          "authors": "Oriane Moyne et al.",
+          "doi": "10.1016/j.cell.2026.03.036",
+          "url": "https://doi.org/10.1016/j.cell.2026.03.036"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Who owns my health data?",
+          "authors": "Paul Webster",
+          "doi": "10.1038/s41591-026-04378-7",
+          "url": "https://doi.org/10.1038/s41591-026-04378-7"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Addendum: Neural anticipation of virtual infection triggers an immune response",
+          "authors": "Sara Trabanelli et al.",
+          "doi": "10.1038/s41593-026-02284-2",
+          "url": "https://doi.org/10.1038/s41593-026-02284-2"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Systematically decoding pathological morphologies and molecular profiles with unified multimodal embedding",
+          "authors": "Peng Zhang et al.",
+          "doi": "10.1038/s41592-026-03070-5",
+          "url": "https://doi.org/10.1038/s41592-026-03070-5"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Rebuilding the bridge: Functional AVN cells for cardiac repair",
+          "authors": "Haofei Wang et al.",
+          "doi": "10.1016/j.stem.2026.03.007",
+          "url": "https://doi.org/10.1016/j.stem.2026.03.007"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Precision from broad strokes: How the non-specific interactions of metabolites and macromolecules can regulate biology",
+          "authors": "Maya Emmons-Bell et al.",
+          "doi": "10.1016/j.molcel.2026.03.010",
+          "url": "https://doi.org/10.1016/j.molcel.2026.03.010"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Cellular and subcellular specialization enables biology-constrained deep learning",
+          "authors": "Alessandro R. Galloni et al.",
+          "doi": "10.1016/j.celrep.2026.117159",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117159"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Membranoproliferative Glomerulonephritis Due to Cryoglobulinemia",
+          "authors": "Noriaki Kawano et al.",
+          "doi": "10.1056/nejmicm2513605",
+          "url": "https://doi.org/10.1056/nejmicm2513605"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Refiloe Masekela: building access to care for childhood lung disease",
+          "authors": "Aarathi Prasad",
+          "doi": "10.1016/s0140-6736(26)00713-0",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00713-0"
+        },
+        {
+          "journal": "JAMA",
+          "title": "As-Needed Medications in Newborn Opioid Withdrawal",
+          "authors": "Matthew Grossman et al.",
+          "doi": "10.1001/jama.2026.6412",
+          "url": "https://doi.org/10.1001/jama.2026.6412"
+        }
+      ]
+    }
+  ]
+}
