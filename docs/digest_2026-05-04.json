@@ -1,0 +1,116 @@
+{
+  "generated": "2026-05-04",
+  "from_date": "2026-04-20",
+  "until_date": "2026-05-04",
+  "total_papers": 385,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Pervasive and programmed nucleosome distortion on single chromatin fibres",
+          "authors": "Marty G. Yang et al.",
+          "doi": "10.1038/s41586-026-10418-6",
+          "url": "https://doi.org/10.1038/s41586-026-10418-6"
+        },
+        {
+          "journal": "Science",
+          "title": "A single-cell multiomic analysis identifies molecular and gene-regulatory mechanisms dysregulated in developing Down syndrome neocortex",
+          "authors": "Celine K. Vuong et al.",
+          "doi": "10.1126/science.aea1259",
+          "url": "https://doi.org/10.1126/science.aea1259"
+        },
+        {
+          "journal": "Cell",
+          "title": "Predicting competition and substrate preferences for targeted microbiome alteration",
+          "authors": "Oriane Moyne et al.",
+          "doi": "10.1016/j.cell.2026.03.036",
+          "url": "https://doi.org/10.1016/j.cell.2026.03.036"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Predicting referral need for febrile children in low-resource community settings in South and Southeast Asia",
+          "authors": "Arjun Chandna et al.",
+          "doi": "10.1038/s41591-026-04338-1",
+          "url": "https://doi.org/10.1038/s41591-026-04338-1"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "A septo–entorhinal GABAergic pathway that enables switching between episodic memories",
+          "authors": "Mujun Kim et al.",
+          "doi": "10.1038/s41593-026-02280-6",
+          "url": "https://doi.org/10.1038/s41593-026-02280-6"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "eSIG-Net: an interaction language model that decodes the protein code of single mutations",
+          "authors": "Xingxin Pan et al.",
+          "doi": "10.1038/s41592-026-03086-x",
+          "url": "https://doi.org/10.1038/s41592-026-03086-x"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Reconstructing tumor tissues in 3D: From organoids to bioengineered niches",
+          "authors": "Verena J. Kast et al.",
+          "doi": "10.1016/j.stem.2026.03.005",
+          "url": "https://doi.org/10.1016/j.stem.2026.03.005"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Precision from broad strokes: How the non-specific interactions of metabolites and macromolecules can regulate biology",
+          "authors": "Maya Emmons-Bell et al.",
+          "doi": "10.1016/j.molcel.2026.03.010",
+          "url": "https://doi.org/10.1016/j.molcel.2026.03.010"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Connecting dots: Ligand-dependent allostery from protein interaction to gene regulation",
+          "authors": "Giorgio Colombo",
+          "doi": "10.1016/j.celrep.2026.117327",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117327"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Membranoproliferative Glomerulonephritis Due to Cryoglobulinemia",
+          "authors": "Noriaki Kawano et al.",
+          "doi": "10.1056/nejmicm2513605",
+          "url": "https://doi.org/10.1056/nejmicm2513605"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Refiloe Masekela: building access to care for childhood lung disease",
+          "authors": "Aarathi Prasad",
+          "doi": "10.1016/s0140-6736(26)00713-0",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00713-0"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Artificial Intelligence Is Not the End of the Physician",
+          "authors": "Canio Martinelli et al.",
+          "doi": "10.1001/jama.2026.4356",
+          "url": "https://doi.org/10.1001/jama.2026.4356"
+        }
+      ]
+    }
+  ]
+}
