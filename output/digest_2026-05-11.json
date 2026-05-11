@@ -1,0 +1,116 @@
+{
+  "generated": "2026-05-11",
+  "from_date": "2026-04-27",
+  "until_date": "2026-05-11",
+  "total_papers": 390,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Prefrontal to ventral tegmental area dynamics drive contingency degradation",
+          "authors": "Madelyn M. Hjort et al.",
+          "doi": "10.1038/s41586-026-10443-5",
+          "url": "https://doi.org/10.1038/s41586-026-10443-5"
+        },
+        {
+          "journal": "Science",
+          "title": "Climate-induced range shifts support local plant diversity but don’t reduce extinction risk",
+          "authors": "Junna Wang et al.",
+          "doi": "10.1126/science.aea1676",
+          "url": "https://doi.org/10.1126/science.aea1676"
+        },
+        {
+          "journal": "Cell",
+          "title": "AI-predicted spatial transcriptomics unlocks breast cancer biomarkers from pathology",
+          "authors": "Eldad D. Shulman et al.",
+          "doi": "10.1016/j.cell.2026.04.023",
+          "url": "https://doi.org/10.1016/j.cell.2026.04.023"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "The microRNA inhibitor CDR132L in patients with reduced left ventricular ejection fraction after myocardial infarction: a randomized phase 2 trial",
+          "authors": "Johann Bauersachs et al.",
+          "doi": "10.1038/s41591-026-04408-4",
+          "url": "https://doi.org/10.1038/s41591-026-04408-4"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Human hippocampal ripples coordinate planning sequences and compositional representations in neocortex",
+          "authors": "Li He et al.",
+          "doi": "10.1038/s41593-026-02291-3",
+          "url": "https://doi.org/10.1038/s41593-026-02291-3"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "FILM: mapping organellar metabolism by mid-infrared photothermal-modulated fluorescence",
+          "authors": "Jianpeng Ao et al.",
+          "doi": "10.1038/s41592-026-03090-1",
+          "url": "https://doi.org/10.1038/s41592-026-03090-1"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Transcriptional profiles of immature neurons in aged human hippocampus track Alzheimer’s pathology and cognitive resilience",
+          "authors": "Giorgia Tosoni et al.",
+          "doi": "10.1016/j.stem.2026.04.002",
+          "url": "https://doi.org/10.1016/j.stem.2026.04.002"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "5′-Triphosphate guanosine RNAs recruit GTP-binding proteins to suppress RIG-I/IFN type I signaling",
+          "authors": "Magdalena Wolczyk et al.",
+          "doi": "10.1016/j.molcel.2026.04.014",
+          "url": "https://doi.org/10.1016/j.molcel.2026.04.014"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Connecting dots: Ligand-dependent allostery from protein interaction to gene regulation",
+          "authors": "Giorgio Colombo",
+          "doi": "10.1016/j.celrep.2026.117327",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117327"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Unpacking the Ordinary",
+          "authors": "Christie Rampersad",
+          "doi": "10.1056/nejmp2513327",
+          "url": "https://doi.org/10.1056/nejmp2513327"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Offline: Ten lessons for women's and children's health",
+          "authors": "Richard Horton",
+          "doi": "10.1016/s0140-6736(26)00801-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00801-9"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Digoxin in Patients With Symptomatic Rheumatic Heart Disease",
+          "authors": "Ganesan Karthikeyan et al.",
+          "doi": "10.1001/jama.2026.7335",
+          "url": "https://doi.org/10.1001/jama.2026.7335"
+        }
+      ]
+    }
+  ]
+}
