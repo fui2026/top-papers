@@ -1,0 +1,116 @@
+{
+  "generated": "2026-05-18",
+  "from_date": "2026-05-04",
+  "until_date": "2026-05-18",
+  "total_papers": 313,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Obesity rise plateaus in developed nations and accelerates in developing nations",
+          "authors": " et al.",
+          "doi": "10.1038/s41586-026-10383-0",
+          "url": "https://doi.org/10.1038/s41586-026-10383-0"
+        },
+        {
+          "journal": "Science",
+          "title": "Aiding peace or conflict? The impact of USAID cuts on violence",
+          "authors": "D. Rohner et al.",
+          "doi": "10.1126/science.aed6802",
+          "url": "https://doi.org/10.1126/science.aed6802"
+        },
+        {
+          "journal": "Cell",
+          "title": "Development of non-spatial grid-like neural codes tracks inference and intelligence",
+          "authors": "Yukun Qu et al.",
+          "doi": "10.1016/j.cell.2026.02.028",
+          "url": "https://doi.org/10.1016/j.cell.2026.02.028"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "What Galen’s dissections reveal about tacit learning in modern medical education",
+          "authors": "Andres Pelavski et al.",
+          "doi": "10.1038/s41591-026-04412-8",
+          "url": "https://doi.org/10.1038/s41591-026-04412-8"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Parsing autism spectrum heterogeneity through fMRI",
+          "authors": "Tatiana A. Shnitko et al.",
+          "doi": "10.1038/s41593-026-02269-1",
+          "url": "https://doi.org/10.1038/s41593-026-02269-1"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Recommendations and considerations for hydroxyl radical protein footprinting–mass spectrometry",
+          "authors": "Aaron T. Wecksler et al.",
+          "doi": "10.1038/s41592-026-03083-0",
+          "url": "https://doi.org/10.1038/s41592-026-03083-0"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Genotoxicity profiling reveals distinct platform-and cell type-specific effects in therapeutic gene editing for genetic hyperinflammation",
+          "authors": "Lei Lei et al.",
+          "doi": "10.1016/j.stem.2026.04.014",
+          "url": "https://doi.org/10.1016/j.stem.2026.04.014"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Transcription and cohesin direct domain boundary spatial positioning and are linked to Friedreich’s ataxia",
+          "authors": "Ashley Karnay et al.",
+          "doi": "10.1016/j.molcel.2026.04.019",
+          "url": "https://doi.org/10.1016/j.molcel.2026.04.019"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Connecting dots: Ligand-dependent allostery from protein interaction to gene regulation",
+          "authors": "Giorgio Colombo",
+          "doi": "10.1016/j.celrep.2026.117327",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117327"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Telitacicept for IgA Nephropathy — Interim Analysis of a Phase 3 Trial",
+          "authors": "Jicheng Lv et al.",
+          "doi": "10.1056/nejmoa2514415",
+          "url": "https://doi.org/10.1056/nejmoa2514415"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Challenges in mitigating weight regain with incretin-based therapy",
+          "authors": "André J Scheen",
+          "doi": "10.1016/s0140-6736(26)00871-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00871-8"
+        },
+        {
+          "journal": "JAMA",
+          "title": "WHO Announces First Malaria Drug for Infants and New Rapid Diagnostic Tests",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.6178",
+          "url": "https://doi.org/10.1001/jama.2026.6178"
+        }
+      ]
+    }
+  ]
+}
