@@ -1,0 +1,116 @@
+{
+  "generated": "2026-05-25",
+  "from_date": "2026-05-11",
+  "until_date": "2026-05-25",
+  "total_papers": 356,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "De novo design of miniproteins targeting GPCRs",
+          "authors": "Edin Muratspahić et al.",
+          "doi": "10.1038/s41586-026-10656-8",
+          "url": "https://doi.org/10.1038/s41586-026-10656-8"
+        },
+        {
+          "journal": "Science",
+          "title": "Virologist accused of starting COVID-19 fights funding ban",
+          "authors": "Jon Cohen",
+          "doi": "10.1126/science.aej0204",
+          "url": "https://doi.org/10.1126/science.aej0204"
+        },
+        {
+          "journal": "Cell",
+          "title": "Genome instability triggers intercellular DNA transfer between human cells",
+          "authors": "Elizabeth G. Maurais et al.",
+          "doi": "10.1016/j.cell.2026.04.041",
+          "url": "https://doi.org/10.1016/j.cell.2026.04.041"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Naming in medicine: how disease nomenclature shapes diagnosis, research and patient lives",
+          "authors": "Helena Teede et al.",
+          "doi": "10.1038/s41591-026-04456-w",
+          "url": "https://doi.org/10.1038/s41591-026-04456-w"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Foamy microglia link oxylipins to disease progression in multiple sclerosis",
+          "authors": "Daan van der Vliet et al.",
+          "doi": "10.1038/s41593-026-02302-3",
+          "url": "https://doi.org/10.1038/s41593-026-02302-3"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "A multimodal adaptive optical microscope for in vivo imaging from molecules to organisms",
+          "authors": "Tian-Ming Fu et al.",
+          "doi": "10.1038/s41592-026-03066-1",
+          "url": "https://doi.org/10.1038/s41592-026-03066-1"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Genotoxicity profiling reveals distinct platform-and cell type-specific effects in therapeutic gene editing for genetic hyperinflammation",
+          "authors": "Lei Lei et al.",
+          "doi": "10.1016/j.stem.2026.04.014",
+          "url": "https://doi.org/10.1016/j.stem.2026.04.014"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Damage-induced i-loops generate eccDNA from repetitive elements",
+          "authors": "Elia Zanella et al.",
+          "doi": "10.1016/j.molcel.2026.04.003",
+          "url": "https://doi.org/10.1016/j.molcel.2026.04.003"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Connecting dots: Ligand-dependent allostery from protein interaction to gene regulation",
+          "authors": "Giorgio Colombo",
+          "doi": "10.1016/j.celrep.2026.117327",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117327"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "When Closure Finds You",
+          "authors": "James A. Feinstein",
+          "doi": "10.1056/nejmp2513303",
+          "url": "https://doi.org/10.1056/nejmp2513303"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Challenges in mitigating weight regain with incretin-based therapy",
+          "authors": "André J Scheen",
+          "doi": "10.1016/s0140-6736(26)00871-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00871-8"
+        },
+        {
+          "journal": "JAMA",
+          "title": "More Than 19 000 Measles Cases in a Month—What the Current Outbreak in Bangladesh Signals to the World",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.9016",
+          "url": "https://doi.org/10.1001/jama.2026.9016"
+        }
+      ]
+    }
+  ]
+}
