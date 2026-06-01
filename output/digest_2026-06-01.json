@@ -1,0 +1,116 @@
+{
+  "generated": "2026-06-01",
+  "from_date": "2026-05-18",
+  "until_date": "2026-06-01",
+  "total_papers": 374,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "αKG-mediated carnitine synthesis drives DNA repair via histone acetylation",
+          "authors": "Apoorva Uboveja et al.",
+          "doi": "10.1038/s41586-026-10584-7",
+          "url": "https://doi.org/10.1038/s41586-026-10584-7"
+        },
+        {
+          "journal": "Science",
+          "title": "Researching while Chinese",
+          "authors": "Jeffrey Mervis",
+          "doi": "10.1126/science.aej1922",
+          "url": "https://doi.org/10.1126/science.aej1922"
+        },
+        {
+          "journal": "Cell",
+          "title": "Genome instability triggers intercellular DNA transfer between human cells",
+          "authors": "Elizabeth G. Maurais et al.",
+          "doi": "10.1016/j.cell.2026.04.041",
+          "url": "https://doi.org/10.1016/j.cell.2026.04.041"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial",
+          "authors": "Martin Wermke et al.",
+          "doi": "10.1038/s41591-026-04455-x",
+          "url": "https://doi.org/10.1038/s41591-026-04455-x"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Neuroproteasomes regulate endogenous tau paired helical filament formation in an APOE genotype- and age-dependent manner",
+          "authors": "Victoria Paradise et al.",
+          "doi": "10.1038/s41593-026-02297-x",
+          "url": "https://doi.org/10.1038/s41593-026-02297-x"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "iPS cells: history made and history in the making",
+          "authors": "Vivien Marx",
+          "doi": "10.1038/s41592-026-03116-8",
+          "url": "https://doi.org/10.1038/s41592-026-03116-8"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Genotoxicity profiling reveals distinct platform-and cell type-specific effects in therapeutic gene editing for genetic hyperinflammation",
+          "authors": "Lei Lei et al.",
+          "doi": "10.1016/j.stem.2026.04.014",
+          "url": "https://doi.org/10.1016/j.stem.2026.04.014"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "H2O2 sulfenylates GRF8 to facilitate jasmonate signaling by relieving MYC2 inhibition in Arabidopsis",
+          "authors": "Ru-Feng Song et al.",
+          "doi": "10.1016/j.molcel.2026.05.003",
+          "url": "https://doi.org/10.1016/j.molcel.2026.05.003"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "cGAS attenuates hypoxia-inducible factor signaling via chaperone-mediated autophagic degradation of HIFα",
+          "authors": "Xiong Li et al.",
+          "doi": "10.1016/j.celrep.2026.117377",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117377"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Selpercatinib in Early-Stage\n                    <i>RET</i>\n                    Fusion–Positive Non–Small-Cell Lung Cancer",
+          "authors": "Yi-Long Wu et al.",
+          "doi": "10.1056/nejmoa2602628",
+          "url": "https://doi.org/10.1056/nejmoa2602628"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Challenges in mitigating weight regain with incretin-based therapy",
+          "authors": "André J Scheen",
+          "doi": "10.1016/s0140-6736(26)00871-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00871-8"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Spillover Effects in Clinical Trials",
+          "authors": "Issa J. Dahabreh et al.",
+          "doi": "10.1001/jama.2026.7858",
+          "url": "https://doi.org/10.1001/jama.2026.7858"
+        }
+      ]
+    }
+  ]
+}
