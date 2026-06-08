@@ -1,0 +1,116 @@
+{
+  "generated": "2026-06-08",
+  "from_date": "2026-05-25",
+  "until_date": "2026-06-08",
+  "total_papers": 392,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Commensal-derived acetylcholine enhances mucosal immune education",
+          "authors": "Deguang Song et al.",
+          "doi": "10.1038/s41586-026-10592-7",
+          "url": "https://doi.org/10.1038/s41586-026-10592-7"
+        },
+        {
+          "journal": "Science",
+          "title": "Home alone: Remote work, isolation, and mental health",
+          "authors": "Natalia Emanuel et al.",
+          "doi": "10.1126/science.aec7671",
+          "url": "https://doi.org/10.1126/science.aec7671"
+        },
+        {
+          "journal": "Cell",
+          "title": "Replaying germinal center evolution on a quantified affinity landscape",
+          "authors": "William S. DeWitt et al.",
+          "doi": "10.1016/j.cell.2026.05.013",
+          "url": "https://doi.org/10.1016/j.cell.2026.05.013"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial",
+          "authors": "Lee M. Kaplan et al.",
+          "doi": "10.1038/s41591-026-04479-3",
+          "url": "https://doi.org/10.1038/s41591-026-04479-3"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Aberrant tau accumulation caused by MAPT mutations induces early pathological changes in axonal transport that are rescued by p38α inhibition",
+          "authors": "Edoardo Moretto et al.",
+          "doi": "10.1038/s41593-026-02266-4",
+          "url": "https://doi.org/10.1038/s41593-026-02266-4"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Brightness demixing for simultaneous multi-target imaging in 3D single-molecule localization microscopy",
+          "authors": "Laurent Le et al.",
+          "doi": "10.1038/s41592-026-03118-6",
+          "url": "https://doi.org/10.1038/s41592-026-03118-6"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Genotoxicity profiling reveals distinct platform-and cell type-specific effects in therapeutic gene editing for genetic hyperinflammation",
+          "authors": "Lei Lei et al.",
+          "doi": "10.1016/j.stem.2026.04.014",
+          "url": "https://doi.org/10.1016/j.stem.2026.04.014"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Mitochondria across the globe: Diverse voices, shared energy",
+          "authors": "Tim Pflästerer et al.",
+          "doi": "10.1016/j.molcel.2026.04.033",
+          "url": "https://doi.org/10.1016/j.molcel.2026.04.033"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "cGAS attenuates hypoxia-inducible factor signaling via chaperone-mediated autophagic degradation of HIFα",
+          "authors": "Xiong Li et al.",
+          "doi": "10.1016/j.celrep.2026.117377",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117377"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Survodutide Once Weekly for the Treatment of Adults with Obesity",
+          "authors": "Carel W. le Roux et al.",
+          "doi": "10.1056/nejmoa2600751",
+          "url": "https://doi.org/10.1056/nejmoa2600751"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Hypertension control: a South Korean success story",
+          "authors": "Faith McLellan",
+          "doi": "10.1016/s0140-6736(26)01140-2",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01140-2"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Orforglipron Added to Titrated Insulin Glargine in Type 2 Diabetes",
+          "authors": "(Unknown)",
+          "doi": "10.1001/jama.2026.9759",
+          "url": "https://doi.org/10.1001/jama.2026.9759"
+        }
+      ]
+    }
+  ]
+}
