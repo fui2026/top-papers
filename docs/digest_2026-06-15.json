@@ -1,0 +1,116 @@
+{
+  "generated": "2026-06-15",
+  "from_date": "2026-06-01",
+  "until_date": "2026-06-15",
+  "total_papers": 332,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "A thalamus–brainstem attractor network drives history-biased decisions",
+          "authors": "Shan Zhao et al.",
+          "doi": "10.1038/s41586-026-10623-3",
+          "url": "https://doi.org/10.1038/s41586-026-10623-3"
+        },
+        {
+          "journal": "Science",
+          "title": "Satellite maps of sinking coastlines face scrutiny",
+          "authors": "Paul Voosen",
+          "doi": "10.1126/science.aej5924",
+          "url": "https://doi.org/10.1126/science.aej5924"
+        },
+        {
+          "journal": "Cell",
+          "title": "Replaying germinal center evolution on a quantified affinity landscape",
+          "authors": "William S. DeWitt et al.",
+          "doi": "10.1016/j.cell.2026.05.013",
+          "url": "https://doi.org/10.1016/j.cell.2026.05.013"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "The Hong Kong Genome Project is a flagship initiative for precision medicine in Chinese populations",
+          "authors": "(Unknown)",
+          "doi": "10.1038/s41591-026-04421-7",
+          "url": "https://doi.org/10.1038/s41591-026-04421-7"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Striatal pathways dissociably control action counting and goal-directed steering",
+          "authors": "Isabella P. Fallon et al.",
+          "doi": "10.1038/s41593-026-02330-z",
+          "url": "https://doi.org/10.1038/s41593-026-02330-z"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Spatial epitranscriptomics: from Cinderella to queen",
+          "authors": "Dejan Lazarević et al.",
+          "doi": "10.1038/s41592-026-03139-1",
+          "url": "https://doi.org/10.1038/s41592-026-03139-1"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Genotoxicity profiling reveals distinct platform-and cell type-specific effects in therapeutic gene editing for genetic hyperinflammation",
+          "authors": "Lei Lei et al.",
+          "doi": "10.1016/j.stem.2026.04.014",
+          "url": "https://doi.org/10.1016/j.stem.2026.04.014"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Mitochondria across the globe: Diverse voices, shared energy",
+          "authors": "Tim Pflästerer et al.",
+          "doi": "10.1016/j.molcel.2026.04.033",
+          "url": "https://doi.org/10.1016/j.molcel.2026.04.033"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "cGAS attenuates hypoxia-inducible factor signaling via chaperone-mediated autophagic degradation of HIFα",
+          "authors": "Xiong Li et al.",
+          "doi": "10.1016/j.celrep.2026.117377",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117377"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Patient-Driven Care in Psychedelic Therapy",
+          "authors": "Yaara Zisman-Ilani et al.",
+          "doi": "10.1056/nejmp2605585",
+          "url": "https://doi.org/10.1056/nejmp2605585"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "WHO and Africa CDC declare the 2026 Ebola disease outbreak a public health emergency",
+          "authors": "Ngashi Ngongo et al.",
+          "doi": "10.1016/s0140-6736(26)01101-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01101-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Residual Myths in Feeding Critically Ill Children",
+          "authors": "Kaitlin Berris et al.",
+          "doi": "10.1001/jama.2026.10505",
+          "url": "https://doi.org/10.1001/jama.2026.10505"
+        }
+      ]
+    }
+  ]
+}
