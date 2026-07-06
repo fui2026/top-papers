@@ -1,0 +1,116 @@
+{
+  "generated": "2026-07-06",
+  "from_date": "2026-06-22",
+  "until_date": "2026-07-06",
+  "total_papers": 390,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
+          "authors": "Zhihui Xiong et al.",
+          "doi": "10.1038/s41586-026-10844-6",
+          "url": "https://doi.org/10.1038/s41586-026-10844-6"
+        },
+        {
+          "journal": "Science",
+          "title": "Transparent fish takes center stage in $1 billion neuroscience initiative",
+          "authors": "Zoe Beketova",
+          "doi": "10.1126/science.aek1830",
+          "url": "https://doi.org/10.1126/science.aek1830"
+        },
+        {
+          "journal": "Cell",
+          "title": "A viral ORFeome library for systems-level genetic dissection of host-pathogen interactions",
+          "authors": "Eric Fujimura et al.",
+          "doi": "10.1016/j.cell.2026.05.024",
+          "url": "https://doi.org/10.1016/j.cell.2026.05.024"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Lassa fever countermeasures gather pace",
+          "authors": "Daniel Jenkin",
+          "doi": "10.1038/s41591-026-04478-4",
+          "url": "https://doi.org/10.1038/s41591-026-04478-4"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Neural timescales from a computational perspective",
+          "authors": "Roxana Zeraati et al.",
+          "doi": "10.1038/s41593-026-02343-8",
+          "url": "https://doi.org/10.1038/s41593-026-02343-8"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Efficient evidence-based genome annotation with EviAnn",
+          "authors": "Aleksey V. Zimin et al.",
+          "doi": "10.1038/s41592-026-03156-0",
+          "url": "https://doi.org/10.1038/s41592-026-03156-0"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Modeling human hypothalamic cell diversity through developmental patterning",
+          "authors": "Sol Díaz de León-Guerrero et al.",
+          "doi": "10.1016/j.stem.2026.06.003",
+          "url": "https://doi.org/10.1016/j.stem.2026.06.003"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "A bacterial reverse transcriptase: Protein-templated DNA synthesis fuels antiviral immunity",
+          "authors": "Yumin Yang et al.",
+          "doi": "10.1016/j.molcel.2026.06.015",
+          "url": "https://doi.org/10.1016/j.molcel.2026.06.015"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Type I unconventional protein secretion of the SARS-CoV-2 nucleocapsid protein promotes inflammatory cytokine release",
+          "authors": "Liwei Zheng et al.",
+          "doi": "10.1016/j.celrep.2026.117613",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117613"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "For Those Left Behind",
+          "authors": "Danielle D. DeCourcey",
+          "doi": "10.1056/nejmp2517154",
+          "url": "https://doi.org/10.1056/nejmp2517154"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Andes hantavirus: operationalising science in real time",
+          "authors": "Patrick Lydon et al.",
+          "doi": "10.1016/s0140-6736(26)01227-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01227-4"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Strength Training Linked With Lower Cardiovascular Disease Risk in Women",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.9468",
+          "url": "https://doi.org/10.1001/jama.2026.9468"
+        }
+      ]
+    }
+  ]
+}
