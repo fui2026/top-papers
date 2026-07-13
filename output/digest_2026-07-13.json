@@ -1,0 +1,116 @@
+{
+  "generated": "2026-07-13",
+  "from_date": "2026-06-29",
+  "until_date": "2026-07-13",
+  "total_papers": 385,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "The forest of knowledge under global change",
+          "authors": "Rodrigo Cámara-Leret et al.",
+          "doi": "10.1038/s41586-026-10741-y",
+          "url": "https://doi.org/10.1038/s41586-026-10741-y"
+        },
+        {
+          "journal": "Science",
+          "title": "A statistical test for the benefits of personalizing interventions",
+          "authors": "Zhaoqi Li et al.",
+          "doi": "10.1126/science.aeb9506",
+          "url": "https://doi.org/10.1126/science.aeb9506"
+        },
+        {
+          "journal": "Cell",
+          "title": "A viral ORFeome library for systems-level genetic dissection of host-pathogen interactions",
+          "authors": "Eric Fujimura et al.",
+          "doi": "10.1016/j.cell.2026.05.024",
+          "url": "https://doi.org/10.1016/j.cell.2026.05.024"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Health system learning enables generalist neuroimaging models",
+          "authors": "Akhil Kondepudi et al.",
+          "doi": "10.1038/s41591-026-04497-1",
+          "url": "https://doi.org/10.1038/s41591-026-04497-1"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Microglial TDP-43 mediates myelin refinement and represses Tyrobp cryptic exon inclusion in mice",
+          "authors": "Anne-Claire Compagnion et al.",
+          "doi": "10.1038/s41593-026-02348-3",
+          "url": "https://doi.org/10.1038/s41593-026-02348-3"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Towards a standardized file format and open-source analysis framework for Brillouin microscopy data",
+          "authors": "Carlo Bevilacqua et al.",
+          "doi": "10.1038/s41592-026-03164-0",
+          "url": "https://doi.org/10.1038/s41592-026-03164-0"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Modeling human hypothalamic cell diversity through developmental patterning",
+          "authors": "Sol Díaz de León-Guerrero et al.",
+          "doi": "10.1016/j.stem.2026.06.003",
+          "url": "https://doi.org/10.1016/j.stem.2026.06.003"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Cryo-EM structure of soluble VPS13C suggests its regulation by a conformational switch and by calmodulin",
+          "authors": "Dazhi Li et al.",
+          "doi": "10.1016/j.molcel.2026.06.028",
+          "url": "https://doi.org/10.1016/j.molcel.2026.06.028"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "ERK1/2 function as a central hub safeguarding primed human embryonic stem cell identity via multifaceted regulatory networks",
+          "authors": "Yifan Zhou et al.",
+          "doi": "10.1016/j.celrep.2026.117675",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117675"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty",
+          "authors": "Sudeep Shivakumar et al.",
+          "doi": "10.1056/nejmoa2603649",
+          "url": "https://doi.org/10.1056/nejmoa2603649"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Andes hantavirus: operationalising science in real time",
+          "authors": "Patrick Lydon et al.",
+          "doi": "10.1016/s0140-6736(26)01227-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01227-4"
+        },
+        {
+          "journal": "JAMA",
+          "title": "YEARS Algorithm for Diagnosis of Suspected Pulmonary Embolism in Patients With Cancer",
+          "authors": "Bram Akerboom et al.",
+          "doi": "10.1001/jama.2026.10676",
+          "url": "https://doi.org/10.1001/jama.2026.10676"
+        }
+      ]
+    }
+  ]
+}
