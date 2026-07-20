@@ -1,0 +1,116 @@
+{
+  "generated": "2026-07-20",
+  "from_date": "2026-07-06",
+  "until_date": "2026-07-20",
+  "total_papers": 352,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Regression to the mean can explain saturation of geomagnetic storms",
+          "authors": "Nithin Sivadas et al.",
+          "doi": "10.1038/s41586-026-10757-4",
+          "url": "https://doi.org/10.1038/s41586-026-10757-4"
+        },
+        {
+          "journal": "Science",
+          "title": "Advancing science by designing for surprise",
+          "authors": "James Evans et al.",
+          "doi": "10.1126/science.aej4257",
+          "url": "https://doi.org/10.1126/science.aej4257"
+        },
+        {
+          "journal": "Cell",
+          "title": "Structural basis of Wnt signalosome extracellular complex assembly",
+          "authors": "Dan Yue et al.",
+          "doi": "10.1016/j.cell.2026.05.006",
+          "url": "https://doi.org/10.1016/j.cell.2026.05.006"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Englumafusp alfa plus glofitamab in B cell non-Hodgkin lymphoma: a phase 1 trial",
+          "authors": "Martin Hutchings et al.",
+          "doi": "10.1038/s41591-026-04533-0",
+          "url": "https://doi.org/10.1038/s41591-026-04533-0"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Microglia prune developing cortical blood vessels through PD-1 signaling",
+          "authors": "Mengtian Zhang et al.",
+          "doi": "10.1038/s41593-026-02378-x",
+          "url": "https://doi.org/10.1038/s41593-026-02378-x"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Spatio-DARLIN maps cell state and clonal history in intact mouse tissues",
+          "authors": "(Unknown)",
+          "doi": "10.1038/s41592-026-03157-z",
+          "url": "https://doi.org/10.1038/s41592-026-03157-z"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Modeling human hypothalamic cell diversity through developmental patterning",
+          "authors": "Sol Díaz de León-Guerrero et al.",
+          "doi": "10.1016/j.stem.2026.06.003",
+          "url": "https://doi.org/10.1016/j.stem.2026.06.003"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Cryo-EM structure of soluble VPS13C suggests its regulation by a conformational switch and by calmodulin",
+          "authors": "Dazhi Li et al.",
+          "doi": "10.1016/j.molcel.2026.06.028",
+          "url": "https://doi.org/10.1016/j.molcel.2026.06.028"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "ERK1/2 function as a central hub safeguarding primed human embryonic stem cell identity via multifaceted regulatory networks",
+          "authors": "Yifan Zhou et al.",
+          "doi": "10.1016/j.celrep.2026.117675",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117675"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Love and Death",
+          "authors": "Tristan Jones",
+          "doi": "10.1056/nejmp2516818",
+          "url": "https://doi.org/10.1056/nejmp2516818"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Patellar resurfacing in total knee replacement: 20-year clinical and economic results of a large multicentre, randomised controlled trial in the UK",
+          "authors": "David W Murray et al.",
+          "doi": "10.1016/s0140-6736(26)00652-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00652-5"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Audio Highlights",
+          "authors": "(Unknown)",
+          "doi": "10.1001/jama.2025.16001",
+          "url": "https://doi.org/10.1001/jama.2025.16001"
+        }
+      ]
+    }
+  ]
+}
