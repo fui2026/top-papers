@@ -1,0 +1,116 @@
+{
+  "generated": "2026-07-27",
+  "from_date": "2026-07-13",
+  "until_date": "2026-07-27",
+  "total_papers": 365,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "A global molecular code for birth order and neuronal identity in Drosophila",
+          "authors": "Sebastian Cachero et al.",
+          "doi": "10.1038/s41586-026-10797-w",
+          "url": "https://doi.org/10.1038/s41586-026-10797-w"
+        },
+        {
+          "journal": "Science",
+          "title": "Constraining an exoplanet’s magnetic field using star-planet interactions",
+          "authors": "D. Revilla et al.",
+          "doi": "10.1126/science.adv3075",
+          "url": "https://doi.org/10.1126/science.adv3075"
+        },
+        {
+          "journal": "Cell",
+          "title": "Genome instability triggers intercellular DNA transfer between human cells",
+          "authors": "Elizabeth G. Maurais et al.",
+          "doi": "10.1016/j.cell.2026.04.041",
+          "url": "https://doi.org/10.1016/j.cell.2026.04.041"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "AI-based clinician decision support system for diagnosis of inherited retinal diseases: a multicenter, randomized trial",
+          "authors": "Huixun Jia et al.",
+          "doi": "10.1038/s41591-026-04545-w",
+          "url": "https://doi.org/10.1038/s41591-026-04545-w"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Replay of procedural memory is independent of the hippocampus",
+          "authors": "Emmett J. Thompson et al.",
+          "doi": "10.1038/s41593-026-02362-5",
+          "url": "https://doi.org/10.1038/s41593-026-02362-5"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Bridging complexity and accessibility in metabolomics with MetaboApps",
+          "authors": "Helena Mannochio-Russo et al.",
+          "doi": "10.1038/s41592-026-03186-8",
+          "url": "https://doi.org/10.1038/s41592-026-03186-8"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Modeling human hypothalamic cell diversity through developmental patterning",
+          "authors": "Sol Díaz de León-Guerrero et al.",
+          "doi": "10.1016/j.stem.2026.06.003",
+          "url": "https://doi.org/10.1016/j.stem.2026.06.003"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Cryo-EM structure of soluble VPS13C suggests its regulation by a conformational switch and by calmodulin",
+          "authors": "Dazhi Li et al.",
+          "doi": "10.1016/j.molcel.2026.06.028",
+          "url": "https://doi.org/10.1016/j.molcel.2026.06.028"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Myeloid MMP14 couples extracellular proteolysis to inflammatory and metabolic remodeling during obesity",
+          "authors": "Long J. Shao et al.",
+          "doi": "10.1016/j.celrep.2026.117681",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117681"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Pulsatile Liver in Severe Tricuspid Regurgitation",
+          "authors": "André Vaz et al.",
+          "doi": "10.1056/nejmicm2601392",
+          "url": "https://doi.org/10.1056/nejmicm2601392"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "The Kava conundrum",
+          "authors": "Chris McCall",
+          "doi": "10.1016/s0140-6736(26)01378-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01378-4"
+        },
+        {
+          "journal": "JAMA",
+          "title": "US Death Rates Reach All-Time Low in 2025",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.9485",
+          "url": "https://doi.org/10.1001/jama.2026.9485"
+        }
+      ]
+    }
+  ]
+}
