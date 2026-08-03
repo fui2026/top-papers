@@ -1,0 +1,116 @@
+{
+  "generated": "2026-08-03",
+  "from_date": "2026-07-20",
+  "until_date": "2026-08-03",
+  "total_papers": 379,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
+          "authors": "Julia A. Belk et al.",
+          "doi": "10.1038/s41586-026-10939-0",
+          "url": "https://doi.org/10.1038/s41586-026-10939-0"
+        },
+        {
+          "journal": "Science",
+          "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders",
+          "authors": "Anna M. Puszynska et al.",
+          "doi": "10.1126/science.ady0832",
+          "url": "https://doi.org/10.1126/science.ady0832"
+        },
+        {
+          "journal": "Cell",
+          "title": "Dynamic dimer-of-dimers architecture defines Mg2+ transport in human CNNM4",
+          "authors": "Zhiyong Bai et al.",
+          "doi": "10.1016/j.cell.2026.06.039",
+          "url": "https://doi.org/10.1016/j.cell.2026.06.039"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "End-to-end multimodal pathology foundation model with clinical dialogue",
+          "authors": "Eugene Vorontsov et al.",
+          "doi": "10.1038/s41591-026-04521-4",
+          "url": "https://doi.org/10.1038/s41591-026-04521-4"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "An activity-modulated transport route across myelin (TRAM) for motor-driven organelle transfer in oligodendrocytes",
+          "authors": "Katie J. Chapple et al.",
+          "doi": "10.1038/s41593-026-02383-0",
+          "url": "https://doi.org/10.1038/s41593-026-02383-0"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "CellTune: an integrative software for accurate cell classification in spatial proteomics",
+          "authors": "Yuval Bussi et al.",
+          "doi": "10.1038/s41592-026-03162-2",
+          "url": "https://doi.org/10.1038/s41592-026-03162-2"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Modeling human hypothalamic cell diversity through developmental patterning",
+          "authors": "Sol Díaz de León-Guerrero et al.",
+          "doi": "10.1016/j.stem.2026.06.003",
+          "url": "https://doi.org/10.1016/j.stem.2026.06.003"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Cryo-EM structure of soluble VPS13C suggests its regulation by a conformational switch and by calmodulin",
+          "authors": "Dazhi Li et al.",
+          "doi": "10.1016/j.molcel.2026.06.028",
+          "url": "https://doi.org/10.1016/j.molcel.2026.06.028"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "A pooled CRISPR-based neuronal activity screen links TMEM50A-dependent MVB function to synaptic integrity and remote memory",
+          "authors": "Jianhui Wang et al.",
+          "doi": "10.1016/j.celrep.2026.117756",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117756"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Doctor’s Dirty Little Secret — The Cost of Silence",
+          "authors": "Tara Khan",
+          "doi": "10.1056/nejmp2515506",
+          "url": "https://doi.org/10.1056/nejmp2515506"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Cambodia reaches HIV milestone",
+          "authors": "Sima Barmania",
+          "doi": "10.1016/s0140-6736(26)01550-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01550-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Initial HIV Therapy for Adults and Treatment-Associated Weight Gain",
+          "authors": "Joana Woods et al.",
+          "doi": "10.1001/jama.2026.14762",
+          "url": "https://doi.org/10.1001/jama.2026.14762"
+        }
+      ]
+    }
+  ]
+}
