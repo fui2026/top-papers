@@ -1,0 +1,116 @@
+{
+  "generated": "2026-08-10",
+  "from_date": "2026-07-27",
+  "until_date": "2026-08-10",
+  "total_papers": 391,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Operational Tropical Cyclone Forecasting with AI",
+          "authors": "Ferran Alet et al.",
+          "doi": "10.1038/s41586-026-10953-2",
+          "url": "https://doi.org/10.1038/s41586-026-10953-2"
+        },
+        {
+          "journal": "Science",
+          "title": "Dengue vaccines need long-term surveillance",
+          "authors": "Maíra Aguiar",
+          "doi": "10.1126/science.aej9456",
+          "url": "https://doi.org/10.1126/science.aej9456"
+        },
+        {
+          "journal": "Cell",
+          "title": "Replaying germinal center evolution on a quantified affinity landscape",
+          "authors": "William S. DeWitt et al.",
+          "doi": "10.1016/j.cell.2026.05.013",
+          "url": "https://doi.org/10.1016/j.cell.2026.05.013"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Large-scale whole-genome sequencing reveals the landscape and health implications of de novo mutations",
+          "authors": "Na Qin et al.",
+          "doi": "10.1038/s41591-026-04585-2",
+          "url": "https://doi.org/10.1038/s41591-026-04585-2"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Striatal endocannabinoids drive one-shot learning",
+          "authors": "Charlotte Piette et al.",
+          "doi": "10.1038/s41593-026-02392-z",
+          "url": "https://doi.org/10.1038/s41593-026-02392-z"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "GHT-SELEX demonstrates unexpectedly high intrinsic sequence specificity and complex DNA binding of many human transcription factors",
+          "authors": "Arttu Jolma et al.",
+          "doi": "10.1038/s41592-026-03177-9",
+          "url": "https://doi.org/10.1038/s41592-026-03177-9"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "SPACE-seq integrates spatial transcriptomics and lineage tracing in native tissues",
+          "authors": "Yuemeng Jia et al.",
+          "doi": "10.1016/j.stem.2026.05.017",
+          "url": "https://doi.org/10.1016/j.stem.2026.05.017"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Stepwise DNA-unwinding gates TnpB genome-editing activity",
+          "authors": "Zehan Zhou et al.",
+          "doi": "10.1016/j.molcel.2026.07.015",
+          "url": "https://doi.org/10.1016/j.molcel.2026.07.015"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "A pooled CRISPR-based neuronal activity screen links TMEM50A-dependent MVB function to synaptic integrity and remote memory",
+          "authors": "Jianhui Wang et al.",
+          "doi": "10.1016/j.celrep.2026.117756",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117756"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Warthin Tumors",
+          "authors": "Xiaoling Pan et al.",
+          "doi": "10.1056/nejmicm2604482",
+          "url": "https://doi.org/10.1056/nejmicm2604482"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Cambodia reaches HIV milestone",
+          "authors": "Sima Barmania",
+          "doi": "10.1016/s0140-6736(26)01550-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01550-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Will New Lyme Disease Approaches Change Patient Care?",
+          "authors": "Kate Schweitzer",
+          "doi": "10.1001/jama.2026.15548",
+          "url": "https://doi.org/10.1001/jama.2026.15548"
+        }
+      ]
+    }
+  ]
+}
