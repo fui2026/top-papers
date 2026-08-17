@@ -1,0 +1,116 @@
+{
+  "generated": "2026-08-17",
+  "from_date": "2026-08-03",
+  "until_date": "2026-08-17",
+  "total_papers": 335,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Procognitive restoration of PV neuron plasticity in neurodevelopmental disorders",
+          "authors": "Yu-Tzu Shih et al.",
+          "doi": "10.1038/s41586-026-10907-8",
+          "url": "https://doi.org/10.1038/s41586-026-10907-8"
+        },
+        {
+          "journal": "Science",
+          "title": "Promoter-driven recrystallization affording highly textured ruthenium",
+          "authors": "Youngchul Leem et al.",
+          "doi": "10.1126/science.ady9591",
+          "url": "https://doi.org/10.1126/science.ady9591"
+        },
+        {
+          "journal": "Cell",
+          "title": "Replaying germinal center evolution on a quantified affinity landscape",
+          "authors": "William S. DeWitt et al.",
+          "doi": "10.1016/j.cell.2026.05.013",
+          "url": "https://doi.org/10.1016/j.cell.2026.05.013"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Histological aging signatures for monitoring tissue-specific aging and disease",
+          "authors": "Ernesto Abila et al.",
+          "doi": "10.1038/s41591-026-04566-5",
+          "url": "https://doi.org/10.1038/s41591-026-04566-5"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Dendritic translation and neuroproteasome-mediated degradation of endogenous tau revealed by STARFISH",
+          "authors": "Kalin D. Konrad-Vicario et al.",
+          "doi": "10.1038/s41593-026-02398-7",
+          "url": "https://doi.org/10.1038/s41593-026-02398-7"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Lessons learned from a Kaggle challenge for particle picking in cryo-electron tomography",
+          "authors": "Ariana Peck et al.",
+          "doi": "10.1038/s41592-026-03198-4",
+          "url": "https://doi.org/10.1038/s41592-026-03198-4"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "SPACE-seq integrates spatial transcriptomics and lineage tracing in native tissues",
+          "authors": "Yuemeng Jia et al.",
+          "doi": "10.1016/j.stem.2026.05.017",
+          "url": "https://doi.org/10.1016/j.stem.2026.05.017"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Stepwise DNA-unwinding gates TnpB genome-editing activity",
+          "authors": "Zehan Zhou et al.",
+          "doi": "10.1016/j.molcel.2026.07.015",
+          "url": "https://doi.org/10.1016/j.molcel.2026.07.015"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "A pooled CRISPR-based neuronal activity screen links TMEM50A-dependent MVB function to synaptic integrity and remote memory",
+          "authors": "Jianhui Wang et al.",
+          "doi": "10.1016/j.celrep.2026.117756",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117756"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Marijuana Rescheduling — A Game Changer for Research?",
+          "authors": "Rebecca L. Haffajee et al.",
+          "doi": "10.1056/nejmp2606593",
+          "url": "https://doi.org/10.1056/nejmp2606593"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Cambodia reaches HIV milestone",
+          "authors": "Sima Barmania",
+          "doi": "10.1016/s0140-6736(26)01550-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01550-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Blood Tests for Colorectal Cancer Screening—What the Updated ACS Guideline Says",
+          "authors": "Rita Rubin",
+          "doi": "10.1001/jama.2026.11340",
+          "url": "https://doi.org/10.1001/jama.2026.11340"
+        }
+      ]
+    }
+  ]
+}
