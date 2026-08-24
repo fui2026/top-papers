@@ -1,0 +1,116 @@
+{
+  "generated": "2026-08-24",
+  "from_date": "2026-08-10",
+  "until_date": "2026-08-24",
+  "total_papers": 354,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+          "authors": "Johannes J. Großkopf et al.",
+          "doi": "10.1038/s41586-026-11043-z",
+          "url": "https://doi.org/10.1038/s41586-026-11043-z"
+        },
+        {
+          "journal": "Science",
+          "title": "Dryland restoration needs shared evidence",
+          "authors": "Hong Yang et al.",
+          "doi": "10.1126/science.aek5595",
+          "url": "https://doi.org/10.1126/science.aek5595"
+        },
+        {
+          "journal": "Cell",
+          "title": "Replaying germinal center evolution on a quantified affinity landscape",
+          "authors": "William S. DeWitt et al.",
+          "doi": "10.1016/j.cell.2026.05.013",
+          "url": "https://doi.org/10.1016/j.cell.2026.05.013"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Dysregulated adult hippocampal neurogenesis in major depressive disorders",
+          "authors": "Madeleine S. Peng et al.",
+          "doi": "10.1038/s41591-026-04571-8",
+          "url": "https://doi.org/10.1038/s41591-026-04571-8"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Cortical thickness changes precede high levels of amyloid by at least 7 years",
+          "authors": "James M. Roe et al.",
+          "doi": "10.1038/s41593-026-02363-4",
+          "url": "https://doi.org/10.1038/s41593-026-02363-4"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "The physics of sculpting a living creature",
+          "authors": "Caroline Seydel",
+          "doi": "10.1038/s41592-026-03208-5",
+          "url": "https://doi.org/10.1038/s41592-026-03208-5"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "SPACE-seq integrates spatial transcriptomics and lineage tracing in native tissues",
+          "authors": "Yuemeng Jia et al.",
+          "doi": "10.1016/j.stem.2026.05.017",
+          "url": "https://doi.org/10.1016/j.stem.2026.05.017"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Mechanism of MEK1 phosphorylation by the N-terminal acidic motif-mediated asymmetric BRAF dimer",
+          "authors": "Yasushi Kondo et al.",
+          "doi": "10.1016/j.molcel.2026.06.039",
+          "url": "https://doi.org/10.1016/j.molcel.2026.06.039"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "A pooled CRISPR-based neuronal activity screen links TMEM50A-dependent MVB function to synaptic integrity and remote memory",
+          "authors": "Jianhui Wang et al.",
+          "doi": "10.1016/j.celrep.2026.117756",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117756"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Marijuana Rescheduling — A Game Changer for Research?",
+          "authors": "Rebecca L. Haffajee et al.",
+          "doi": "10.1056/nejmp2606593",
+          "url": "https://doi.org/10.1056/nejmp2606593"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Cambodia reaches HIV milestone",
+          "authors": "Sima Barmania",
+          "doi": "10.1016/s0140-6736(26)01550-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01550-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Audio Highlights",
+          "authors": "(Unknown)",
+          "doi": "10.1001/jama.2025.16041",
+          "url": "https://doi.org/10.1001/jama.2025.16041"
+        }
+      ]
+    }
+  ]
+}
