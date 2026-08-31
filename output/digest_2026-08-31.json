@@ -1,0 +1,116 @@
+{
+  "generated": "2026-08-31",
+  "from_date": "2026-08-17",
+  "until_date": "2026-08-31",
+  "total_papers": 372,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Infrared absorption spectroscopy of a single polyatomic molecular ion",
+          "authors": "Zhenlin Wu et al.",
+          "doi": "10.1038/s41586-026-10915-8",
+          "url": "https://doi.org/10.1038/s41586-026-10915-8"
+        },
+        {
+          "journal": "Science",
+          "title": "Foreshock productivity and rupture nucleation in injection-induced earthquakes in western Canada",
+          "authors": "Bei Wang et al.",
+          "doi": "10.1126/science.aed9893",
+          "url": "https://doi.org/10.1126/science.aed9893"
+        },
+        {
+          "journal": "Cell",
+          "title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development",
+          "authors": "Kaima Tsukada et al.",
+          "doi": "10.1016/j.cell.2026.07.041",
+          "url": "https://doi.org/10.1016/j.cell.2026.07.041"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Obesity medicines as disruptive innovation",
+          "authors": "Naveed Sattar",
+          "doi": "10.1038/s41591-026-04594-1",
+          "url": "https://doi.org/10.1038/s41591-026-04594-1"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Social isolation recruits amygdala–medial prefrontal cortex projections to escalate alcohol drinking in male mice",
+          "authors": "Reesha R. Patel et al.",
+          "doi": "10.1038/s41593-026-02413-x",
+          "url": "https://doi.org/10.1038/s41593-026-02413-x"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "A FAIR road to a bioAFM databank",
+          "authors": "Jean-Luc Pellequer et al.",
+          "doi": "10.1038/s41592-026-03214-7",
+          "url": "https://doi.org/10.1038/s41592-026-03214-7"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "A Linc1405/Eomes Complex Promotes Cardiac Mesoderm Specification and Cardiogenesis",
+          "authors": "Xudong Guo et al.",
+          "doi": "10.1016/j.stem.2026.07.016",
+          "url": "https://doi.org/10.1016/j.stem.2026.07.016"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Uridine cytidine kinase 1 promotes phosphatidylcholine biosynthesis, facilitating SARS-CoV-2 infection",
+          "authors": "Guangda Shi et al.",
+          "doi": "10.1016/j.molcel.2026.06.040",
+          "url": "https://doi.org/10.1016/j.molcel.2026.06.040"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "RAD51 proximity mapping reveals spatial constraints on homology search during DNA double-stranded break repair",
+          "authors": "Charles D Yeh et al.",
+          "doi": "10.1016/j.celrep.2026.117864",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117864"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Timing of PCI in Patients Undergoing Transcatheter Aortic-Valve Implantation",
+          "authors": "Barbara E. Stähli et al.",
+          "doi": "10.1056/nejmoa2606924",
+          "url": "https://doi.org/10.1056/nejmoa2606924"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Medical emergency: urgent medical care for Dr Hussam Abu Safiya",
+          "authors": "Muniba Khan et al.",
+          "doi": "10.1016/s0140-6736(26)01414-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01414-5"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Beyond the Pulmonary Veins in Atrial Fibrillation—Are We There Yet?",
+          "authors": "Peter M. Kistler et al.",
+          "doi": "10.1001/jama.2026.17688",
+          "url": "https://doi.org/10.1001/jama.2026.17688"
+        }
+      ]
+    }
+  ]
+}
