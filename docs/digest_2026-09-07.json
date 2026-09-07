@@ -1,0 +1,116 @@
+{
+  "generated": "2026-09-07",
+  "from_date": "2026-08-24",
+  "until_date": "2026-09-07",
+  "total_papers": 386,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
+          "authors": "Jing Gong et al.",
+          "doi": "10.1038/s41586-026-11091-5",
+          "url": "https://doi.org/10.1038/s41586-026-11091-5"
+        },
+        {
+          "journal": "Science",
+          "title": "Supermale fish become new tactic for vanquishing invaders",
+          "authors": "Erik Stokstad",
+          "doi": "10.1126/science.aem0438",
+          "url": "https://doi.org/10.1126/science.aem0438"
+        },
+        {
+          "journal": "Cell",
+          "title": "Cross-species single-cell atlas of the striatum defines cell-type and subregion disease vulnerabilities",
+          "authors": "Raleigh M. Linville et al.",
+          "doi": "10.1016/j.cell.2026.08.006",
+          "url": "https://doi.org/10.1016/j.cell.2026.08.006"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Prediction of maternal and infant outcomes from longitudinal electronic health records with a Mother-Child AI agent",
+          "authors": "Sian Liu et al.",
+          "doi": "10.1038/s41591-026-04694-y",
+          "url": "https://doi.org/10.1038/s41591-026-04694-y"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Neuromodulation for restoring and amplifying brain function",
+          "authors": "Shrey Grover et al.",
+          "doi": "10.1038/s41593-026-02434-6",
+          "url": "https://doi.org/10.1038/s41593-026-02434-6"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Towards high-quality large-scale T cell receptor antigen specificity data: challenges and promises",
+          "authors": "Mikhail Shugay et al.",
+          "doi": "10.1038/s41592-026-03227-2",
+          "url": "https://doi.org/10.1038/s41592-026-03227-2"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "A Linc1405/Eomes Complex Promotes Cardiac Mesoderm Specification and Cardiogenesis",
+          "authors": "Xudong Guo et al.",
+          "doi": "10.1016/j.stem.2026.07.016",
+          "url": "https://doi.org/10.1016/j.stem.2026.07.016"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "BRD4: From molecular understanding to therapeutics development",
+          "authors": "Shwu-Yuan Wu et al.",
+          "doi": "10.1016/j.molcel.2026.07.004",
+          "url": "https://doi.org/10.1016/j.molcel.2026.07.004"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Local lactate-driven H3K18 lactylation impairs anti-influenza immunity through NRF2-dependent dendritic cell dysfunction",
+          "authors": "Chen Lyu et al.",
+          "doi": "10.1016/j.celrep.2026.117943",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117943"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "When Fear Became the Barrier to Care — Lessons of a Clinical Rapid Response during Operation Metro Surge",
+          "authors": "Munira Maalimisaq et al.",
+          "doi": "10.1056/nejmp2607981",
+          "url": "https://doi.org/10.1056/nejmp2607981"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "How will the Meta settlement affect child health?",
+          "authors": "Talha Burki",
+          "doi": "10.1016/s0140-6736(26)01807-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01807-6"
+        },
+        {
+          "journal": "JAMA",
+          "title": "FDA Authorizes First Autonomous Robotic Blood Draw Device",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.12070",
+          "url": "https://doi.org/10.1001/jama.2026.12070"
+        }
+      ]
+    }
+  ]
+}
