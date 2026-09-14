@@ -1,0 +1,116 @@
+{
+  "generated": "2026-09-14",
+  "from_date": "2026-08-31",
+  "until_date": "2026-09-14",
+  "total_papers": 390,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Foaming photopolymers as a high-resolution biomimetic printing platform",
+          "authors": "Detao Qin et al.",
+          "doi": "10.1038/s41586-026-10968-9",
+          "url": "https://doi.org/10.1038/s41586-026-10968-9"
+        },
+        {
+          "journal": "Science",
+          "title": "Ban bets on unfinished clinical trials",
+          "authors": "Y. Tony Yang et al.",
+          "doi": "10.1126/science.ael8642",
+          "url": "https://doi.org/10.1126/science.ael8642"
+        },
+        {
+          "journal": "Cell",
+          "title": "Cross-species single-cell atlas of the striatum defines cell-type and subregion disease vulnerabilities",
+          "authors": "Raleigh M. Linville et al.",
+          "doi": "10.1016/j.cell.2026.08.006",
+          "url": "https://doi.org/10.1016/j.cell.2026.08.006"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Clinical usability of an explainable AI decision support tool and evaluation of multimodal models in NSCLC",
+          "authors": "Arsela Prelaj et al.",
+          "doi": "10.1038/s41591-026-04488-2",
+          "url": "https://doi.org/10.1038/s41591-026-04488-2"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment",
+          "authors": "Omer Sharon et al.",
+          "doi": "10.1038/s41593-026-02415-9",
+          "url": "https://doi.org/10.1038/s41593-026-02415-9"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "An ultralow-background far-red light-responsive optogenetic tool based on an engineered biliverdin-binding domain",
+          "authors": "Giang N. T. Le et al.",
+          "doi": "10.1038/s41592-026-03223-6",
+          "url": "https://doi.org/10.1038/s41592-026-03223-6"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "IGF2 acts downstream of Hippo signaling to regulate organ growth and restore liver regeneration in aging",
+          "authors": "Zhenxing Zhong et al.",
+          "doi": "10.1016/j.stem.2026.08.006",
+          "url": "https://doi.org/10.1016/j.stem.2026.08.006"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "BRD4: From molecular understanding to therapeutics development",
+          "authors": "Shwu-Yuan Wu et al.",
+          "doi": "10.1016/j.molcel.2026.07.004",
+          "url": "https://doi.org/10.1016/j.molcel.2026.07.004"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Local lactate-driven H3K18 lactylation impairs anti-influenza immunity through NRF2-dependent dendritic cell dysfunction",
+          "authors": "Chen Lyu et al.",
+          "doi": "10.1016/j.celrep.2026.117943",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117943"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Celiac-Artery Dissection",
+          "authors": "Akshat Agrawal et al.",
+          "doi": "10.1056/nejmicm2605936",
+          "url": "https://doi.org/10.1056/nejmicm2605936"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "How will the Meta settlement affect child health?",
+          "authors": "Talha Burki",
+          "doi": "10.1016/s0140-6736(26)01807-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01807-6"
+        },
+        {
+          "journal": "JAMA",
+          "title": "A New Universal Definition of MI, Blood Pressure and Dementia, and More News From ESC Congress 2026",
+          "authors": "Jennifer Abbasi",
+          "doi": "10.1001/jama.2026.17052",
+          "url": "https://doi.org/10.1001/jama.2026.17052"
+        }
+      ]
+    }
+  ]
+}
