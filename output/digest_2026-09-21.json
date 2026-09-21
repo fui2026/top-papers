@@ -1,0 +1,116 @@
+{
+  "generated": "2026-09-21",
+  "from_date": "2026-09-07",
+  "until_date": "2026-09-21",
+  "total_papers": 369,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
+          "authors": "Meng Zhang et al.",
+          "doi": "10.1038/s41586-026-11057-7",
+          "url": "https://doi.org/10.1038/s41586-026-11057-7"
+        },
+        {
+          "journal": "Science",
+          "title": "Extreme loss suppression in an ultracold molecular gas with widely tunable dipolar interactions",
+          "authors": "Weijun Yuan et al.",
+          "doi": "10.1126/science.adz0521",
+          "url": "https://doi.org/10.1126/science.adz0521"
+        },
+        {
+          "journal": "Cell",
+          "title": "Cross-species single-cell atlas of the striatum defines cell-type and subregion disease vulnerabilities",
+          "authors": "Raleigh M. Linville et al.",
+          "doi": "10.1016/j.cell.2026.08.006",
+          "url": "https://doi.org/10.1016/j.cell.2026.08.006"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Levetiracetam therapeutically targets GABAergic synapses in diffuse midline glioma",
+          "authors": "Tara Barron et al.",
+          "doi": "10.1038/s41591-026-04646-6",
+          "url": "https://doi.org/10.1038/s41591-026-04646-6"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Reciprocal connections dynamically build consensus between neocortical areas",
+          "authors": "Mitra Javadzadeh et al.",
+          "doi": "10.1038/s41593-026-02437-3",
+          "url": "https://doi.org/10.1038/s41593-026-02437-3"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "When a laser beam hits an electron beam",
+          "authors": "Vivien Marx",
+          "doi": "10.1038/s41592-026-03239-y",
+          "url": "https://doi.org/10.1038/s41592-026-03239-y"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "IGF2 acts downstream of Hippo signaling to regulate organ growth and restore liver regeneration in aging",
+          "authors": "Zhenxing Zhong et al.",
+          "doi": "10.1016/j.stem.2026.08.006",
+          "url": "https://doi.org/10.1016/j.stem.2026.08.006"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "BRD4: From molecular understanding to therapeutics development",
+          "authors": "Shwu-Yuan Wu et al.",
+          "doi": "10.1016/j.molcel.2026.07.004",
+          "url": "https://doi.org/10.1016/j.molcel.2026.07.004"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "mtDNA alterations in muscle progenitors determine myoblast differentiation and disrupt skeletal muscle architecture",
+          "authors": "Ayesha Sen et al.",
+          "doi": "10.1016/j.celrep.2026.117979",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117979"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Declining Child Health in the United States — Addressing the Developmental Ecosystem",
+          "authors": "Christopher B. Forrest et al.",
+          "doi": "10.1056/nejmp2609124",
+          "url": "https://doi.org/10.1056/nejmp2609124"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Oropharyngeal ulcers in Yao syndrome with multisystem involvement",
+          "authors": "Efstathios Pettas et al.",
+          "doi": "10.1016/s0140-6736(26)01243-2",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01243-2"
+        },
+        {
+          "journal": "JAMA",
+          "title": "FDA Approves 2 New Alzheimer Disease Blood Tests",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.14721",
+          "url": "https://doi.org/10.1001/jama.2026.14721"
+        }
+      ]
+    }
+  ]
+}
