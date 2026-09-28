@@ -1,0 +1,116 @@
+{
+  "generated": "2026-09-28",
+  "from_date": "2026-09-14",
+  "until_date": "2026-09-28",
+  "total_papers": 379,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "TRAM promotes Toll-like-receptor-free myddosome signal transduction",
+          "authors": "Daniel Fisch et al.",
+          "doi": "10.1038/s41586-026-11052-y",
+          "url": "https://doi.org/10.1038/s41586-026-11052-y"
+        },
+        {
+          "journal": "Science",
+          "title": "Escape of the\n                    <i>BC200</i>\n                    gene to a human poxvirus reveals its persistent transposition in primates",
+          "authors": "Pu Gao et al.",
+          "doi": "10.1126/science.aeh3441",
+          "url": "https://doi.org/10.1126/science.aeh3441"
+        },
+        {
+          "journal": "Cell",
+          "title": "Toward autonomous science with agentic artificial intelligence",
+          "authors": "Lucie Y. Guo et al.",
+          "doi": "10.1016/j.cell.2026.08.052",
+          "url": "https://doi.org/10.1016/j.cell.2026.08.052"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Does expansion of clinical trial capacity improve healthcare access?",
+          "authors": "Yang Liu et al.",
+          "doi": "10.1038/s41591-026-04683-1",
+          "url": "https://doi.org/10.1038/s41591-026-04683-1"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Reconciling global collaboration and data sovereignty in neuroscience",
+          "authors": "Kimberly L. Ray et al.",
+          "doi": "10.1038/s41593-026-02468-w",
+          "url": "https://doi.org/10.1038/s41593-026-02468-w"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Spatially resolved chromatin architectures in mammalian brain tissues",
+          "authors": "Zhenping Chen et al.",
+          "doi": "10.1038/s41592-026-03218-3",
+          "url": "https://doi.org/10.1038/s41592-026-03218-3"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "IGF2 acts downstream of Hippo signaling to regulate organ growth and restore liver regeneration in aging",
+          "authors": "Zhenxing Zhong et al.",
+          "doi": "10.1016/j.stem.2026.08.006",
+          "url": "https://doi.org/10.1016/j.stem.2026.08.006"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "BRD4: From molecular understanding to therapeutics development",
+          "authors": "Shwu-Yuan Wu et al.",
+          "doi": "10.1016/j.molcel.2026.07.004",
+          "url": "https://doi.org/10.1016/j.molcel.2026.07.004"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "mtDNA alterations in muscle progenitors determine myoblast differentiation and disrupt skeletal muscle architecture",
+          "authors": "Ayesha Sen et al.",
+          "doi": "10.1016/j.celrep.2026.117979",
+          "url": "https://doi.org/10.1016/j.celrep.2026.117979"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "The Mayor",
+          "authors": "Michael A. Incze et al.",
+          "doi": "10.1056/nejmp2603393",
+          "url": "https://doi.org/10.1056/nejmp2603393"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Bundibugyo virus glycoprotein seroreactivity following recombinant vesicular stomatitis virus–Zaire Ebola virus glycoprotein vaccination in outbreak-affected populations of the Democratic Republic of the Congo: a longitudinal cohort study",
+          "authors": "Megan Halbrook et al.",
+          "doi": "10.1016/s0140-6736(26)01608-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01608-9"
+        },
+        {
+          "journal": "JAMA",
+          "title": "New Guidance for Common Hair Loss Disorder",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.14731",
+          "url": "https://doi.org/10.1001/jama.2026.14731"
+        }
+      ]
+    }
+  ]
+}
