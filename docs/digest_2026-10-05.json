@@ -1,0 +1,116 @@
+{
+  "generated": "2026-10-05",
+  "from_date": "2026-09-21",
+  "until_date": "2026-10-05",
+  "total_papers": 398,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
+          "authors": "Ashton Trey Belew et al.",
+          "doi": "10.1038/s41586-026-11149-4",
+          "url": "https://doi.org/10.1038/s41586-026-11149-4"
+        },
+        {
+          "journal": "Science",
+          "title": "Verification makes discovery matter",
+          "authors": "Jay Bhattacharya",
+          "doi": "10.1126/science.aem6125",
+          "url": "https://doi.org/10.1126/science.aem6125"
+        },
+        {
+          "journal": "Cell",
+          "title": "Cross-species single-cell atlas of the striatum defines cell-type and subregion disease vulnerabilities",
+          "authors": "Raleigh M. Linville et al.",
+          "doi": "10.1016/j.cell.2026.08.006",
+          "url": "https://doi.org/10.1016/j.cell.2026.08.006"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial",
+          "authors": "Cécile Cazes et al.",
+          "doi": "10.1038/s41591-026-04675-1",
+          "url": "https://doi.org/10.1038/s41591-026-04675-1"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Glioblastoma treatment gels",
+          "authors": "Shari Wiseman",
+          "doi": "10.1038/s41593-026-02479-7",
+          "url": "https://doi.org/10.1038/s41593-026-02479-7"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Times are changing but order matters: transferable prediction of small-molecule liquid chromatography retention times",
+          "authors": "Fleming Kretschmer et al.",
+          "doi": "10.1038/s41592-026-03243-2",
+          "url": "https://doi.org/10.1038/s41592-026-03243-2"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "IGF2 acts downstream of Hippo signaling to regulate organ growth and restore liver regeneration in aging",
+          "authors": "Zhenxing Zhong et al.",
+          "doi": "10.1016/j.stem.2026.08.006",
+          "url": "https://doi.org/10.1016/j.stem.2026.08.006"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "A dual-module ECAS complex couples transcription elongation and RNA processing",
+          "authors": "Ying Xiang et al.",
+          "doi": "10.1016/j.molcel.2026.08.019",
+          "url": "https://doi.org/10.1016/j.molcel.2026.08.019"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "TCF25 serves as a nutrient sensor to orchestrate metabolic adaptation and cell death by enhancing lysosomal acidification under glucose starvation",
+          "authors": "Wenqing Ren et al.",
+          "doi": "10.1016/j.celrep.2026.118055",
+          "url": "https://doi.org/10.1016/j.celrep.2026.118055"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Menkes Disease",
+          "authors": "Hsin-Yu Chen et al.",
+          "doi": "10.1056/nejmicm2607595",
+          "url": "https://doi.org/10.1056/nejmicm2607595"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Offline: Can time be tamed?",
+          "authors": "Richard Horton",
+          "doi": "10.1016/s0140-6736(26)01979-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01979-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "PREVENT Equations Integrated Into Electronic Health Record Platform",
+          "authors": "Samantha Anderer",
+          "doi": "10.1001/jama.2026.20007",
+          "url": "https://doi.org/10.1001/jama.2026.20007"
+        }
+      ]
+    }
+  ]
+}
