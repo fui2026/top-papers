@@ -1,0 +1,116 @@
+{
+  "generated": "2026-10-12",
+  "from_date": "2026-09-28",
+  "until_date": "2026-10-12",
+  "total_papers": 389,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Hydrogen bonding in water under extreme confinement",
+          "authors": "Xintong Xu et al.",
+          "doi": "10.1038/s41586-026-10858-0",
+          "url": "https://doi.org/10.1038/s41586-026-10858-0"
+        },
+        {
+          "journal": "Science",
+          "title": "Wooden tool trove reveals Neanderthal domestic life",
+          "authors": "Andrew Curry",
+          "doi": "10.1126/science.aen0168",
+          "url": "https://doi.org/10.1126/science.aen0168"
+        },
+        {
+          "journal": "Cell",
+          "title": "Cross-species single-cell atlas of the striatum defines cell-type and subregion disease vulnerabilities",
+          "authors": "Raleigh M. Linville et al.",
+          "doi": "10.1016/j.cell.2026.08.006",
+          "url": "https://doi.org/10.1016/j.cell.2026.08.006"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Addendum: Aberrant epithelial GREM1 expression initiates colonic tumorigenesis from cells outside the stem cell niche",
+          "authors": "Hayley Davis et al.",
+          "doi": "10.1038/s41591-026-04736-5",
+          "url": "https://doi.org/10.1038/s41591-026-04736-5"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Alzheimer’s disease target and drug discovery by leveraging multiomics and electronic health data",
+          "authors": "Yuan Hou et al.",
+          "doi": "10.1038/s41593-026-02472-0",
+          "url": "https://doi.org/10.1038/s41593-026-02472-0"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "An integrated open-source acquisition and analysis ecosystem for high-throughput single-molecule imaging",
+          "authors": "Daniel S. Terry et al.",
+          "doi": "10.1038/s41592-026-03265-w",
+          "url": "https://doi.org/10.1038/s41592-026-03265-w"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "IGF2 acts downstream of Hippo signaling to regulate organ growth and restore liver regeneration in aging",
+          "authors": "Zhenxing Zhong et al.",
+          "doi": "10.1016/j.stem.2026.08.006",
+          "url": "https://doi.org/10.1016/j.stem.2026.08.006"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Toward interpretable foundation models for molecular biology",
+          "authors": "Mukund Varma et al.",
+          "doi": "10.1016/j.molcel.2026.09.030",
+          "url": "https://doi.org/10.1016/j.molcel.2026.09.030"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "TCF25 serves as a nutrient sensor to orchestrate metabolic adaptation and cell death by enhancing lysosomal acidification under glucose starvation",
+          "authors": "Wenqing Ren et al.",
+          "doi": "10.1016/j.celrep.2026.118055",
+          "url": "https://doi.org/10.1016/j.celrep.2026.118055"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Flushing in Carcinoid Syndrome",
+          "authors": "N. Karthik et al.",
+          "doi": "10.1056/nejmicm2606144",
+          "url": "https://doi.org/10.1056/nejmicm2606144"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Offline: Can time be tamed?",
+          "authors": "Richard Horton",
+          "doi": "10.1016/s0140-6736(26)01979-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01979-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Unapproved GLP-1 Drugs Retatrutide and Zenagamtide Sold Online Are No Bargain",
+          "authors": "Rita Rubin",
+          "doi": "10.1001/jama.2026.20514",
+          "url": "https://doi.org/10.1001/jama.2026.20514"
+        }
+      ]
+    }
+  ]
+}
