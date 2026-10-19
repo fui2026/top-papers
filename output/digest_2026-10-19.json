@@ -1,0 +1,116 @@
+{
+  "generated": "2026-10-19",
+  "from_date": "2026-10-05",
+  "until_date": "2026-10-19",
+  "total_papers": 346,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Nearly half of reef-building corals face elevated relative risk of extinction",
+          "authors": "David O. Obura et al.",
+          "doi": "10.1038/s41586-026-11263-3",
+          "url": "https://doi.org/10.1038/s41586-026-11263-3"
+        },
+        {
+          "journal": "Science",
+          "title": "Stereoselective polysubstituted bicyclo[1.1.0]butane synthesis by rhodium-catalyzed kinetic resolution",
+          "authors": "Xiaolong Zhang et al.",
+          "doi": "10.1126/science.aeh6251",
+          "url": "https://doi.org/10.1126/science.aeh6251"
+        },
+        {
+          "journal": "Cell",
+          "title": "SPARCS enables scalable recovery of complex image-based phenotypes for genetic screening",
+          "authors": "Niklas A. Schmacke et al.",
+          "doi": "10.1016/j.cell.2026.09.021",
+          "url": "https://doi.org/10.1016/j.cell.2026.09.021"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Only time will tell",
+          "authors": "Natalie Healey",
+          "doi": "10.1038/s41591-026-04699-7",
+          "url": "https://doi.org/10.1038/s41591-026-04699-7"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Periventricular gradient pathology is linked to ependymal reactivity and cell adhesion disruption in multiple sclerosis",
+          "authors": "Adam M. R. Groh et al.",
+          "doi": "10.1038/s41593-026-02461-3",
+          "url": "https://doi.org/10.1038/s41593-026-02461-3"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Recent developments of fluorescent proteins and biosensors driven by cross-disciplinary insights",
+          "authors": "Anneliese M. M. Gest et al.",
+          "doi": "10.1038/s41592-026-03268-7",
+          "url": "https://doi.org/10.1038/s41592-026-03268-7"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "IGF2 acts downstream of Hippo signaling to regulate organ growth and restore liver regeneration in aging",
+          "authors": "Zhenxing Zhong et al.",
+          "doi": "10.1016/j.stem.2026.08.006",
+          "url": "https://doi.org/10.1016/j.stem.2026.08.006"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Toward interpretable foundation models for molecular biology",
+          "authors": "Mukund Varma et al.",
+          "doi": "10.1016/j.molcel.2026.09.030",
+          "url": "https://doi.org/10.1016/j.molcel.2026.09.030"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "TCF25 serves as a nutrient sensor to orchestrate metabolic adaptation and cell death by enhancing lysosomal acidification under glucose starvation",
+          "authors": "Wenqing Ren et al.",
+          "doi": "10.1016/j.celrep.2026.118055",
+          "url": "https://doi.org/10.1016/j.celrep.2026.118055"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Spinal Tuberculosis",
+          "authors": "Sara Pereira Henriques et al.",
+          "doi": "10.1056/nejmicm2607513",
+          "url": "https://doi.org/10.1056/nejmicm2607513"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "WHO should adjust its cervical cancer plan",
+          "authors": "Eric J Suba",
+          "doi": "10.1016/s0140-6736(26)01641-7",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01641-7"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Lp(a)-Reducing Agent Pelacarsen Misses the Mark in Phase 3—Now What?",
+          "authors": "Jennifer Abbasi",
+          "doi": "10.1001/jama.2026.20002",
+          "url": "https://doi.org/10.1001/jama.2026.20002"
+        }
+      ]
+    }
+  ]
+}
