@@ -1,0 +1,116 @@
+{
+  "generated": "2026-11-02",
+  "from_date": "2026-10-19",
+  "until_date": "2026-11-02",
+  "total_papers": 384,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "Subcycle videography of Landau–Zener–Majorana transitions in graphene",
+          "authors": "V. Eggers et al.",
+          "doi": "10.1038/s41586-026-11214-y",
+          "url": "https://doi.org/10.1038/s41586-026-11214-y"
+        },
+        {
+          "journal": "Science",
+          "title": "How comparable are bird and human sounds?",
+          "authors": "Kazuo Okanoya",
+          "doi": "10.1126/science.aem2333",
+          "url": "https://doi.org/10.1126/science.aem2333"
+        },
+        {
+          "journal": "Cell",
+          "title": "SPARCS enables scalable recovery of complex image-based phenotypes for genetic screening",
+          "authors": "Niklas A. Schmacke et al.",
+          "doi": "10.1016/j.cell.2026.09.021",
+          "url": "https://doi.org/10.1016/j.cell.2026.09.021"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Climate change threatens malaria elimination in the Asia Pacific",
+          "authors": "Kimberly Fornace et al.",
+          "doi": "10.1038/s41591-026-04722-x",
+          "url": "https://doi.org/10.1038/s41591-026-04722-x"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Serotonin signaling enhances phagocytosis by brain macrophages through Htr2b and alleviates brain injury after stroke",
+          "authors": "Yueman Zhang et al.",
+          "doi": "10.1038/s41593-026-02482-y",
+          "url": "https://doi.org/10.1038/s41593-026-02482-y"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Foundation models unlock robust phenotypic representations from Cell Painting images",
+          "authors": "(Unknown)",
+          "doi": "10.1038/s41592-026-03271-y",
+          "url": "https://doi.org/10.1038/s41592-026-03271-y"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "IGF2 acts downstream of Hippo signaling to regulate organ growth and restore liver regeneration in aging",
+          "authors": "Zhenxing Zhong et al.",
+          "doi": "10.1016/j.stem.2026.08.006",
+          "url": "https://doi.org/10.1016/j.stem.2026.08.006"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "Toward interpretable foundation models for molecular biology",
+          "authors": "Mukund Varma et al.",
+          "doi": "10.1016/j.molcel.2026.09.030",
+          "url": "https://doi.org/10.1016/j.molcel.2026.09.030"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Hexokinase-2 moonlights as a suppressor of STING-mediated innate immunity",
+          "authors": "Chuchu Zhang et al.",
+          "doi": "10.1016/j.celrep.2026.118187",
+          "url": "https://doi.org/10.1016/j.celrep.2026.118187"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI",
+          "authors": "Carlos Collet et al.",
+          "doi": "10.1056/nejmoa2610771",
+          "url": "https://doi.org/10.1056/nejmoa2610771"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "WHO should adjust its cervical cancer plan",
+          "authors": "Eric J Suba",
+          "doi": "10.1016/s0140-6736(26)01641-7",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01641-7"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Intensive BP Lowering Reduces Cardiovascular Risk in Adults With CKD",
+          "authors": "Sari Richmond",
+          "doi": "10.1001/jama.2026.20039",
+          "url": "https://doi.org/10.1001/jama.2026.20039"
+        }
+      ]
+    }
+  ]
+}
