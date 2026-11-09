@@ -1,0 +1,116 @@
+{
+  "generated": "2026-11-09",
+  "from_date": "2026-10-26",
+  "until_date": "2026-11-09",
+  "total_papers": 386,
+  "categories": [
+    {
+      "category": "top3",
+      "label": "Nature / Science / Cell",
+      "highlights": [
+        {
+          "journal": "Nature",
+          "title": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
+          "authors": "Taiji Mizoguchi et al.",
+          "doi": "10.1038/s41586-026-11233-9",
+          "url": "https://doi.org/10.1038/s41586-026-11233-9"
+        },
+        {
+          "journal": "Science",
+          "title": "Melting and resistivity of iron at Earth core conditions using pulsed Joule heating",
+          "authors": "Zachary M. Geballe et al.",
+          "doi": "10.1126/science.aeh5267",
+          "url": "https://doi.org/10.1126/science.aeh5267"
+        },
+        {
+          "journal": "Cell",
+          "title": "Convergent genomic evolution of human gut bacteria along an industrialization gradient",
+          "authors": "Malte Rühlemann et al.",
+          "doi": "10.1016/j.cell.2026.10.014",
+          "url": "https://doi.org/10.1016/j.cell.2026.10.014"
+        }
+      ]
+    },
+    {
+      "category": "nature_family",
+      "label": "Nature 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Nature Medicine",
+          "title": "Effects of semaglutide on cardiac structure and function in heart failure with preserved ejection fraction and obesity: a pre-specified cardiac magnetic resonance substudy of the CAMEO-SEMA trial",
+          "authors": "Fahime Ghanbari et al.",
+          "doi": "10.1038/s41591-026-04787-8",
+          "url": "https://doi.org/10.1038/s41591-026-04787-8"
+        },
+        {
+          "journal": "Nature Neuroscience",
+          "title": "Single-neuron encoding of rapidly learned visual information reshapes human perception",
+          "authors": "Marcelo Armendariz et al.",
+          "doi": "10.1038/s41593-026-02496-6",
+          "url": "https://doi.org/10.1038/s41593-026-02496-6"
+        },
+        {
+          "journal": "Nature Methods",
+          "title": "Unlocking spatial diversity of circular RNAs with abcFISH",
+          "authors": "Seow Neng Chan et al.",
+          "doi": "10.1038/s41592-026-03288-3",
+          "url": "https://doi.org/10.1038/s41592-026-03288-3"
+        }
+      ]
+    },
+    {
+      "category": "cell_family",
+      "label": "Cell 姉妹誌",
+      "highlights": [
+        {
+          "journal": "Cell Stem Cell",
+          "title": "Epiblast complementation enables generation of live offspring from pluripotent stem cells",
+          "authors": "Yi Ding et al.",
+          "doi": "10.1016/j.stem.2026.10.010",
+          "url": "https://doi.org/10.1016/j.stem.2026.10.010"
+        },
+        {
+          "journal": "Molecular Cell",
+          "title": "The chromatin context differently impacts prime editors and base editors and controls the fidelity and purity of base editing",
+          "authors": "Qian Wang et al.",
+          "doi": "10.1016/j.molcel.2026.10.012",
+          "url": "https://doi.org/10.1016/j.molcel.2026.10.012"
+        },
+        {
+          "journal": "Cell Reports",
+          "title": "Hexokinase-2 moonlights as a suppressor of STING-mediated innate immunity",
+          "authors": "Chuchu Zhang et al.",
+          "doi": "10.1016/j.celrep.2026.118187",
+          "url": "https://doi.org/10.1016/j.celrep.2026.118187"
+        }
+      ]
+    },
+    {
+      "category": "medical",
+      "label": "医学系トップ",
+      "highlights": [
+        {
+          "journal": "NEJM",
+          "title": "Left Bundle-Branch Pacing versus Right Ventricular Pacing for Atrioventricular Block",
+          "authors": "Zhiyong Qian et al.",
+          "doi": "10.1056/nejmoa2612972",
+          "url": "https://doi.org/10.1056/nejmoa2612972"
+        },
+        {
+          "journal": "The Lancet",
+          "title": "Global Fund appoints Mark Dybul as head",
+          "authors": "John Zarocostas",
+          "doi": "10.1016/s0140-6736(26)02237-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)02237-3"
+        },
+        {
+          "journal": "JAMA",
+          "title": "Low-Voltage Area Ablation for Persistent Atrial Fibrillation",
+          "authors": "(Unknown)",
+          "doi": "10.1001/jama.2026.24384",
+          "url": "https://doi.org/10.1001/jama.2026.24384"
+        }
+      ]
+    }
+  ]
+}
